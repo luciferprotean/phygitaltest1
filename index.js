@@ -16,10 +16,10 @@ app.use(bodyParser.json());
 const doc = new GoogleSpreadsheet(SHEET_ID);
 
 async function accessSheet() {
-  await doc.useServiceAccountAuth({
-    client_email: creds.client_email,
-    private_key: creds.private_key,
-  });
+  await doc.loadInfo(); // loads sheet info
+  console.log(`Loaded sheet: ${doc.title}`);
+  return doc.sheetsByIndex[0];
+}
 
   await doc.loadInfo(); // load document properties and worksheets
   console.log(`Loaded sheet: ${doc.title}`);
