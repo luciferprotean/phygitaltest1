@@ -6,6 +6,7 @@ const fs = require('fs');
 const path = require('path');
 
 app.use(express.static(__dirname));
+app.use(express.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
 // Route to serve the HTML page
