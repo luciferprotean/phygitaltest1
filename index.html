@@ -2,6 +2,24 @@
 <html>
   <head>
     <title>Public Key Checker</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        padding: 40px;
+      }
+      input {
+        width: 400px;
+        padding: 10px;
+      }
+      button {
+        padding: 10px 20px;
+        margin-left: 10px;
+      }
+      #result {
+        margin-top: 20px;
+        font-weight: bold;
+      }
+    </style>
   </head>
   <body>
     <h2>Check Public Key</h2>
@@ -10,35 +28,55 @@
       <button type="submit">Check</button>
     </form>
 
-    <div id="result" style="margin-top:20px; font-weight:bold;"></div>
+    <div id="result"></div>
+    <button id="tryNext" style="display:none;">TRY NEXT</button>
 
     <script>
       const form = document.getElementById('checkForm');
       const resultDiv = document.getElementById('result');
+      const tryNextBtn = document.getElementById('tryNext');
 
       form.addEventListener('submit', async (e) => {
-        e.preventDefault(); // prevent page reload
+        e.preventDefault();
 
-        const inputValue = document.getElementById('myInput').value;
+        const inputValue = document.getElementById('myInput').value.trim();
+        if (!inputValue) return;
 
-        // Send data using fetch
+        resultDiv.textContent = "Checking...";
+        resultDiv.style.color = "black";
+
         const response = await fetch('/submit', {
           method: 'POST',
-          headers: {
-            'Content-Type': 'application/json'
-          },
+          headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({ myInput: inputValue })
         });
 
         const data = await response.json();
 
         if (data.found) {
-          resultDiv.innerHTML = `✅ Found!<br>Serial: ${data.serial}<br>Type: ${data.type}`;
-          resultDiv.style.color = 'green';
+          resultDiv.innerHTML = `
+            ✅ <b>FOUND!</b><br>
+            Serial: ${data.serial}<br>
+            Type: ${data.type}<br>
+            Public Key: <small>${data.pk}</small>
+          `;
+          resultDiv.style.color = "green";
         } else {
-          resultDiv.innerHTML = '❌ NOT FOUND';
-          resultDiv.style.color = 'red';
+          resultDiv.textContent = "❌ NOT FOUND";
+          resultDiv.style.color = "red";
         }
+
+        // Hide form and show TRY NEXT button
+        form.style.display = "none";
+        tryNextBtn.style.display = "inline-block";
+      });
+
+      // Reset UI for next test
+      tryNextBtn.addEventListener('click', () => {
+        document.getElementById('myInput').value = "";
+        resultDiv.textContent = "";
+        form.style.display = "block";
+        tryNextBtn.style.display = "none";
       });
     </script>
   </body>

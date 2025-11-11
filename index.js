@@ -1,38 +1,62 @@
 const express = require("express");
 const app = express();
-const bodyParser = require('body-parser'); // To parse form data
-const port = process.env.PORT || 3000;
+const bodyParser = require('body-parser');
 const fs = require('fs');
 const path = require('path');
+const port = process.env.PORT || 3000;
 
 app.use(express.static(__dirname));
-app.use(express.json());
 app.use(bodyParser.urlencoded({ extended: true }));
+app.use(bodyParser.json());
 
-// Route to serve the HTML page
+// Serve HTML
 app.get('/', (req, res) => {
   res.sendFile(path.join(__dirname, 'index.html'));
 });
 
-// Route to handle form submission
+// Handle input check
 app.post('/submit', (req, res) => {
   const inputValue = req.body.myInput;
   console.log('Received input:', inputValue);
-  const data = JSON.parse(fs.readFileSync(path.join(__dirname, 'jacketData.json')));
 
-  // Find matching entry
+  // Read main JSON data
+  const data = JSON.parse(fs.readFileSync(path.join(__dirname, 'jacketData.json')));
   const match = data.find(item => item.publicKey === inputValue);
 
-if (match) {
-    res.json({
-      found: true,
-      serial: match.serial,
-      type: match.type,
-      pk: match.publicKey
-    });
-  } else {
-    res.json({ found: false });
+  if (!match) {
+    return res.json({ found: false });
   }
+
+  // Prepare result object
+  const result = {
+    found: true,
+    serial: match.serial,
+    type: match.type,
+    pk: match.publicKey
+  };
+
+  const scanFile = path.join(__dirname, 'scanResults.json');
+
+  // Ensure scanResults.json exists
+  if (!fs.existsSync(scanFile)) {
+    fs.writeFileSync(scanFile, JSON.stringify([], null, 2));
+  }
+
+  // Read existing scan results
+  const scanData = JSON.parse(fs.readFileSync(scanFile));
+
+  // Check if pk already exists
+  const exists = scanData.some(item => item.pk === match.publicKey);
+
+  if (!exists) {
+    scanData.push(result);
+    fs.writeFileSync(scanFile, JSON.stringify(scanData, null, 2));
+    console.log(`✅ Added ${match.publicKey} to scanResults.json`);
+  } else {
+    console.log(`⚠️ ${match.publicKey} already exists in scanResults.json`);
+  }
+
+  res.json(result);
 });
 // Route: /testcode
 app.get("/testcode", (req, res) => {
