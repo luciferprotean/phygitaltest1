@@ -4,10 +4,22 @@ const bodyParser = require('body-parser');
 const fs = require('fs');
 const path = require('path');
 const port = process.env.PORT || 3000;
+const { GoogleSpreadsheet } = require('google-spreadsheet');
+const creds = JSON.parse(process.env.GOOGLE_CREDENTIALS);
+//const creds = require('./jacket-scanner-a9e87365b5d8.json'); // path to downloaded key
+const SHEET_ID = '1bx3X2jxB-4rf4GxfUUB6lFlLQvonSbiYzJVDqgS5xsU';
 
 app.use(express.static(__dirname));
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
+
+const doc = new GoogleSpreadsheet(SHEET_ID);
+
+async function accessSheet() {
+  await doc.useServiceAccountAuth(creds);
+  await doc.loadInfo();
+  return doc.sheetsByIndex[0]; // first sheet
+}
 
 // Serve HTML
 app.get('/', (req, res) => {
@@ -15,49 +27,41 @@ app.get('/', (req, res) => {
 });
 
 // Handle input check
-app.post('/submit', (req, res) => {
+app.post('/submit', async (req, res) => {
   const inputValue = req.body.myInput;
   console.log('Received input:', inputValue);
 
-  // Read main JSON data
   const data = JSON.parse(fs.readFileSync(path.join(__dirname, 'jacketData.json')));
   const match = data.find(item => item.publicKey === inputValue);
 
-  if (!match) {
-    return res.json({ found: false });
+  if (!match) return res.json({ found: false });
+
+  const sheet = await accessSheet();
+  const rows = await sheet.getRows();
+
+  // Check if key already exists
+  const exists = rows.some(row => row.publicKey === match.publicKey);
+
+  if (!exists) {
+    await sheet.addRow({
+      serial: match.serial,
+      type: match.type,
+      publicKey: match.publicKey
+    });
+    console.log(`✅ Added ${match.publicKey} to Google Sheet`);
+  } else {
+    console.log(`⚠️ ${match.publicKey} already exists in Google Sheet`);
   }
 
-  // Prepare result object
-  const result = {
+  res.json({
     found: true,
     serial: match.serial,
     type: match.type,
     pk: match.publicKey
-  };
-
-  const scanFile = path.join(__dirname, 'scanResults.json');
-
-  // Ensure scanResults.json exists
-  if (!fs.existsSync(scanFile)) {
-    fs.writeFileSync(scanFile, JSON.stringify([], null, 2));
-  }
-
-  // Read existing scan results
-  const scanData = JSON.parse(fs.readFileSync(scanFile));
-
-  // Check if pk already exists
-  const exists = scanData.some(item => item.pk === match.publicKey);
-
-  if (!exists) {
-    scanData.push(result);
-    fs.writeFileSync(scanFile, JSON.stringify(scanData, null, 2));
-    console.log(`✅ Added ${match.publicKey} to scanResults.json`);
-  } else {
-    console.log(`⚠️ ${match.publicKey} already exists in scanResults.json`);
-  }
-
-  res.json(result);
+  });
 });
+
+// 1bx3X2jxB-4rf4GxfUUB6lFlLQvonSbiYzJVDqgS5xsU - Sheet id
 // Route: /testcode
 app.get("/testcode", (req, res) => {
   // Your QR URL is like: https://myapp.com/testcode/?=mycode123
