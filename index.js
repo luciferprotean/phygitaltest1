@@ -1,7 +1,22 @@
 const express = require("express");
 const app = express();
+const bodyParser = require('body-parser'); // To parse form data
 const port = process.env.PORT || 3000;
 
+app.use(express.static(__dirname));
+app.use(bodyParser.urlencoded({ extended: true }));
+
+  // Route to serve the HTML page
+  app.get('/', (req, res) => {
+      res.sendFile(path.join(__dirname, 'index.html'));
+  });
+
+  // Route to handle form submission
+  app.post('/submit', (req, res) => {
+      const inputValue = req.body.myInput;
+      console.log('Received input:', inputValue);
+      res.send(`Data received: ${inputValue}`);
+  });
 // Route: /testcode
 app.get("/testcode", (req, res) => {
   // Your QR URL is like: https://myapp.com/testcode/?=mycode123
