@@ -1,37 +1,40 @@
-const express = require("express");
+const express = require('express');
 const app = express();
 const bodyParser = require('body-parser');
 const fs = require('fs');
 const path = require('path');
-const port = process.env.PORT || 3000;
 const { GoogleSpreadsheet } = require('google-spreadsheet');
-const creds = JSON.parse(process.env.GOOGLE_CREDENTIALS);
-//const creds = require('./jacket-scanner-a9e87365b5d8.json'); // path to downloaded key
-const SHEET_ID = '1bx3X2jxB-4rf4GxfUUB6lFlLQvonSbiYzJVDqgS5xsU';
+const { JWT } = require('google-auth-library');
+
+const port = process.env.PORT || 3000;
+const creds = require('./jacket-scanner-a9e87365b5d8.json');
+const SHEET_ID = '1bx3X2jxB-4rF4GxFUUB6lFLlQvonSbiYzJVDqgS5xsU';
+
+// ✅ Google Sheets Auth setup
+const serviceAccountAuth = new JWT({
+  email: creds.client_email,
+  key: creds.private_key,
+  scopes: ['https://www.googleapis.com/auth/spreadsheets'],
+});
+
+const doc = new GoogleSpreadsheet(SHEET_ID, serviceAccountAuth);
+
+async function accessSheet() {
+  await doc.loadInfo();
+  console.log(`Loaded sheet: ${doc.title}`);
+  return doc.sheetsByIndex[0];
+}
 
 app.use(express.static(__dirname));
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
-const doc = new GoogleSpreadsheet(SHEET_ID);
-
-async function accessSheet() {
-  await doc.loadInfo(); // loads sheet info
-  console.log(`Loaded sheet: ${doc.title}`);
-  return doc.sheetsByIndex[0];
-}
-
-// Serve HTML
-app.get('/', (req, res) => {
-  res.sendFile(path.join(__dirname, 'index.html'));
-});
-
-// Handle input check
-app.post("/submit", async (req, res) => {
+// ✅ Route to handle form submission
+app.post('/submit', async (req, res) => {
   const inputValue = req.body.myInput;
-  console.log("Received input:", inputValue);
+  console.log('Received input:', inputValue);
 
-  const data = JSON.parse(fs.readFileSync(path.join(__dirname, "jacketData.json")));
+  const data = JSON.parse(fs.readFileSync(path.join(__dirname, 'jacketData.json')));
   const match = data.find((item) => item.publicKey === inputValue);
 
   if (match) {
