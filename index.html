@@ -1,17 +1,45 @@
 <!DOCTYPE html>
-  <html lang="en">
+<html>
   <head>
-      <meta charset="UTF-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Express Form</title>
+    <title>Public Key Checker</title>
   </head>
   <body>
-      <h1>Paste Public Key</h1>
-      <form action="/submit" method="POST">
-          <label for="myInput">Input Text:</label>
-          <input type="text" id="myInput" name="myInput" required>
-          <br><br>
-          <button type="submit">Submit</button>
-      </form>
+    <h2>Check Public Key</h2>
+    <form id="checkForm">
+      <input type="text" id="myInput" name="myInput" placeholder="Enter Public Key" required>
+      <button type="submit">Check</button>
+    </form>
+
+    <div id="result" style="margin-top:20px; font-weight:bold;"></div>
+
+    <script>
+      const form = document.getElementById('checkForm');
+      const resultDiv = document.getElementById('result');
+
+      form.addEventListener('submit', async (e) => {
+        e.preventDefault(); // prevent page reload
+
+        const inputValue = document.getElementById('myInput').value;
+
+        // Send data using fetch
+        const response = await fetch('/submit', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify({ myInput: inputValue })
+        });
+
+        const data = await response.json();
+
+        if (data.found) {
+          resultDiv.innerHTML = `✅ Found!<br>Serial: ${data.serial}<br>Type: ${data.type}`;
+          resultDiv.style.color = 'green';
+        } else {
+          resultDiv.innerHTML = '❌ NOT FOUND';
+          resultDiv.style.color = 'red';
+        }
+      });
+    </script>
   </body>
-  </html>
+</html>
