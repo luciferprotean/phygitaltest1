@@ -22,14 +22,16 @@ app.post('/submit', (req, res) => {
   // Find matching entry
   const match = data.find(item => item.publicKey === inputValue);
 
-  if (match) {
-    res.send(
-      `✅ Found!<br>Serial: ${match.serial}<br>Type: ${match.type}`
-    );
+if (match) {
+    res.json({
+      found: true,
+      serial: match.serial,
+      type: match.type,
+      pk: match.publicKey
+    });
   } else {
-    res.send('❌ NOT FOUND');
+    res.json({ found: false });
   }
-  //res.send(`Data received: ${inputValue}`);
 });
 // Route: /testcode
 app.get("/testcode", (req, res) => {
