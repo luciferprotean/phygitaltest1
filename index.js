@@ -26,7 +26,8 @@ app.post('/submit', (req, res) => {
     res.json({
       found: true,
       serial: match.serial,
-      type: match.type
+      type: match.type,
+      pk: match.publicKey
     });
   } else {
     res.json({ found: false });
