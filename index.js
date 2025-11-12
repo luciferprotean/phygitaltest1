@@ -19,15 +19,16 @@ app.post('/submit', (req, res) => {
   const inputValue = req.body.myInput;
   console.log('Received input:', inputValue);
 
-  const data = JSON.parse(fs.readFileSync(path.join(__dirname, 'jacketData.json')));
-  const match = data.find(item => item.publicKey === inputValue);
+  //const data = JSON.parse(fs.readFileSync(path.join(__dirname, 'jacketData.json')));
+  const data = JSON.parse(fs.readFileSync(path.join(__dirname, 'chipData.json')));
+  const match = data.find(item => item.chip_pk === inputValue);
 
   if (match) {
     res.json({
       found: true,
-      serial: match.serial,
-      type: match.type,
-      pk: match.publicKey
+      serial: match.serial_number,
+      type: match.tier_code,
+      pk: match.chip_pk
     });
   } else {
     res.json({ found: false });

@@ -1,0 +1,3522 @@
+[
+  {
+    "chip_pk": "04025ecd7e003a8bc72d44f875bab8741c0c80e2619244507809d18b50641290aad9abb0ecb2cbaa49c4fd06c3d433f76cf51fc69fa7065ce7b368070e7f46c093",
+    "serial_number": 1,
+    "tier_code": "legendary",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-legendary-event",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-oneshop",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04da72d7f4dd3fd3ab5ff4e5428845492489d959a11312db22c59213ab97ac84e9063f991f6ec2473a4ccb14a91c91840353d09b02ae9dcac6a41d2848c8266eba",
+    "serial_number": 2,
+    "tier_code": "legendary",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-legendary-event",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-oneshop",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04cac46dde9ea3964daac1c26d715fc7f8897142387a3ee96cc8bfc8899a3353ac3a82047f56e50af25147df74058f83ecb33131e358583996b94a2d20dd24aecf",
+    "serial_number": 3,
+    "tier_code": "legendary",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-legendary-event",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-oneshop",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04fd1c1b1e2245ff044e9c36d3ec0c16b43feadbe87149ee09d5e26f25055f356a9ab29fadef9423c571b3e20c7a3742e7ff64dc8e5633efb9239d6cc37d41e16c",
+    "serial_number": 4,
+    "tier_code": "legendary",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-legendary-event",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-oneshop",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "0431f00a654d533eeda9e4cfd80ddbb5069c41a5c933e0fbd00fb227f4ad37c543c16c4bf8b03eab7df5f3339d8e4accfc238b3360e159782a75dd7315f8603d74",
+    "serial_number": 5,
+    "tier_code": "legendary",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-legendary-event",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-oneshop",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04b20db186bbd5812e953883ba7d1bf14f3af17323de3c40c7eba97d0757c4dc0e69e98169b0b6d8597a5759a3cb143859bd5e505d2aa9bcb95e69ea68ffd235e5",
+    "serial_number": 6,
+    "tier_code": "legendary",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-legendary-event",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-oneshop",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "043cb8f4c5e7f8468191b466f6ee729c816925925725e8e9a01184cfd3a04b3bb350e0709b79eaa640f6d001fdc94b43c6cd9fc3a67b669af5de96bbe3bb620024",
+    "serial_number": 7,
+    "tier_code": "legendary",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-legendary-event",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-oneshop",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04220c1f74f8252f92ff34c9a8a991d1fd4e192440c7bd447a3a966c45bed189b0caaa5ddada128b985f7e72562e81e1cd12f2072a92e831ada635cea9c134534b",
+    "serial_number": 8,
+    "tier_code": "legendary",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-legendary-event",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-oneshop",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04c596b59a716089afb5e1fcf9d8106ac6f9f600554b7d5e0922f4e4517eb51cda9ff17eb7bc0cc3111bf0cd082267a852122e04813c7df81c3fbfaf8f57dd7a39",
+    "serial_number": 9,
+    "tier_code": "legendary",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-legendary-event",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-oneshop",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04b92c5cbcefceeb3c7937238cab20732d041728e6f8fa9d7a1ee63aa710649cae68c501918e1eb9303d02d6f401cd4b963bdac779621b39bcced21769fc02be93",
+    "serial_number": 10,
+    "tier_code": "legendary",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-legendary-event",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-oneshop",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "049fd6dec1cad1c33f3e1a1a48dd76579f413bd79bc34cde7631cc60996d1a9ede0a80323afa183f96ea351e481c1c2504bfe4a6ed67c3a74fca0acb142333816a",
+    "serial_number": 11,
+    "tier_code": "legendary",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-legendary-event",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-oneshop",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "044956767b5d3620948adfda27406b1eb60f10c69b2895e354fe14cc587130c763359d393fec73b6f2d970ecc4b8fc1a4ec12ea09542dae4349a8a49a4c0c0fcda",
+    "serial_number": 12,
+    "tier_code": "legendary",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-legendary-event",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-oneshop",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "043fe9e0242bcb4887436a0591a3b811a73bbcd84b3742f24ce186b5c1fa8736e8e70e753650e72705ed0ed5725af2a86a4ec4f01dcec1acab0f7fb420469ed8a6",
+    "serial_number": 13,
+    "tier_code": "legendary",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-legendary-event",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-oneshop",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04c85cea6a41c95d58d17ef49c39b051b6940fd879b184120972c57918cc02736cdf8d31990e55395109108d146530fa38eaba9be48ffcd8435104302fb85110c8",
+    "serial_number": 14,
+    "tier_code": "legendary",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-legendary-event",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-oneshop",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04640c10d8427101d7903d952c408432635a35a5e28e7a9ea75f9120bb484161a3cd567b9b2e78aea111ee8c1a4946e2667b296f5c1ae03277ac37c3be7471ccb9",
+    "serial_number": 15,
+    "tier_code": "legendary",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-legendary-event",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-oneshop",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04575a898ba021d86429959cc853909886364ec7ef39de719bf1496683b2ca5ed1e98b5f5b18e1beaa58b1c2c7fc92838674bb1a921d32d9b63cef68338ea87ffd",
+    "serial_number": 16,
+    "tier_code": "legendary",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-legendary-event",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-oneshop",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04f7a9e52a859cce9ae9a91870b52a82f2f1c5e1e7f7b01499af18fb6c80dd8afcd1e99dbf4078402e6dbd9437be3df5558338d97bd6770e8db8a1cf0259e2d824",
+    "serial_number": 17,
+    "tier_code": "legendary",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-legendary-event",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-oneshop",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "040f667dc72b334d4a101cb54739f91b777b5796289e83b8e9836f20ba310351ff37800acf1958a439a8cf8cc0e734ea9951a2d473ba86a0b81c63f7e968dcdaa1",
+    "serial_number": 18,
+    "tier_code": "legendary",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-legendary-event",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-oneshop",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04f219211993d1b605833c380205ba62fbd9748ab2630f89de7a23c88b854033a2427827df4407cf84397def4908443e871efec707411b09ec3223f6e91ede1112",
+    "serial_number": 19,
+    "tier_code": "legendary",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-legendary-event",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-oneshop",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04fd75979335e630c2228fe5d0b69c0c29fce6d671eb547a60a0ea16a4fed8d22ae363366234972650fb87314b734011d06bfd965f1341dd1e8822347495b97dbb",
+    "serial_number": 20,
+    "tier_code": "legendary",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-legendary-event",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-legendary-oneshop",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "043333c13f422e9871fdb25a3230a52003c2930d4cf4d04de289ada524fa5050caa479e32fd57e87ab2132ef104b8d8c3c70980095a9d29e7a36175e31099a854a",
+    "serial_number": 21,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04fc0004ca5e42efcdc88bcf89ff41d4855cd4e04c6eeafe87b8f60fbb94ce782e56910ab3b01f2d0600cc6c778a691bf699473f612f55d4dfcc0e59cafb789909",
+    "serial_number": 22,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "042900ee5ce846060adcf8cdfc4cd3b8447bb123b3b960f01261fe8e458ec1cd1f44ceacb770c70489efaa759071c835eb884301d0c0861413be5545dc02aa9d8a",
+    "serial_number": 23,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04e7549b10575a8d4db998025c102a63a308cc968217fae631c798035f9069c4b623c510a4fe34b8e78ffa59adffd0055aef8a1089d01d92e34613c078532593a5",
+    "serial_number": 24,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "040dd1a48703583cd7c5638ea62494c78ed7c5407e4ac2a6c8282b24cc08ea4c7295012b5236a63a25d1e9d486e475e116da37dcc3614d89d2b76a4d41f331e136",
+    "serial_number": 25,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "0493d930b97b8d593900bdd484f8cf5d2825404799bfc051174c6c2ce5823b336e811f74a44b2eed9dca0f6c7a5c7e59599a7403fc396f83701041b391d1f07941",
+    "serial_number": 26,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04c446a24a20a89213714c4db5c21bdadf6beeb558df2326209c0b57356ea016e97cc0022a49c041778b52f487870492cb999840750b0db10ad8081d8d3afb11db",
+    "serial_number": 27,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04ee404d73714352d6a8d86483788fca0a14f1b6ad5d3f6a77d9c7b54635215944e993c6eb3d26b1caef4441b4dacd408de8ebe91f352ab51acd7f134b91b80798",
+    "serial_number": 28,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "040478f89d66a9456ad11e61aca5a75bf0c7c4743f13c2f428c6a5cf90274ac6c0b1f3302b7570b487b8aa895abd2b8a2e6727413ed4154de83b8391fed04d2e1a",
+    "serial_number": 29,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04d0470e80e565a05fd8bc692c27dec5751f788f3e0c0fcd2e3ed3722b288f919a44852af420282c1b4da04541723376b4681193a3418c25bf379080ba419c347f",
+    "serial_number": 30,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04ec1e86ebeb513e63dbee238bb7bd22ebd7805c81658a0f13b7c980e27b2eeab0eacd3ce5b66c03d480b3f12cb95593194092824059ec641dede7f43d6fe5ee29",
+    "serial_number": 31,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "0469ebf319ff6d2e13271f0e08204663c3c1717dc2fab245b95a56761184c3ae7f54f074393d8963065982cb44239339fcdfe6d7e4f67cb3ef59fa652f8a1a9d69",
+    "serial_number": 32,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "048457a0d3551a4a950cb21e20cb8817108078f4668b57b59007179e3150d217177978c781a92a4e0bbaea4b678b782f1d3603a9a09273311c351c3813e566c7b1",
+    "serial_number": 33,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04cc5c463a66f371096a8cf9789c048fe439b0d53cba0d73ab86fcc9a69e806e7482340fce3e55e0c1e0271ded3c7296837891078f7618fc2e3fdab7c75fddb7e7",
+    "serial_number": 34,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04a9c25a298e425a850cd0055abeecd8c9eafec99dc6a6445b803c0c27adf3da357b71774792f0c42a3422fd8ffcd2de202751c72321da46b39ee3ee8bb574a0ab",
+    "serial_number": 35,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "0404bb5f3bd75525e955924a0dfb38b3f6ffc6c316e0c3e1d5e452fa5d8c6dbdf20ac415b2a4a20fd8446c6c17aec713848e9b74b69178a16ce4558d9beb9323b1",
+    "serial_number": 36,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "045ae9c43bbfa134206f25bb3e51fc664808ed5544282a2c34d13315a640d1394a3932db3283643de44332037112b696d4554687481fdd6d130b4590a5972220b4",
+    "serial_number": 37,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "0422adeb4dea1b9ef18cf259a73c9ba6ac73ebaaa8a3202904f013152e2d330ac8257e6b2c6b3ebed4c79488c0d2deb7d37efbf90d0a0b40665a12887f57569f10",
+    "serial_number": 38,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "0477aed6237370f589a7d025f6f359bc2d0142b5f4d8b1ce68b3b2e21773680ada9b79f150202483d0b15ff1f3c3776f7cb45c4093403c90f1efd7f1738dcc8f0e",
+    "serial_number": 39,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "046db89881d825585dbafedf7b1bc48d3920c90140703b76e2c231b3b2ad68e27b3148b4aa21dc515ca1faf5f047bff0c37beb152bb6a97ddafbcf0fc06a4379ed",
+    "serial_number": 40,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04d7aae6233149283b9f989f2fa41f2e06d9246138f895c366379dca9fc56e6a4d47f1e07912e35cecc8deffac1dadbe58af89c75f8488dcabb9ded696160c1a83",
+    "serial_number": 41,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "0484ae94ab4e6b4bbeee694d8e8256532d44f3df9a1a1ed8eca7a471c3d6eb184b42588c6a80ee8f5bd5e2b72567f247849ff05102b501d3bb6ecbefe526c4eef7",
+    "serial_number": 42,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "0486a7456d0b1c8494743cde9374cee843781e046c12410a6edd9854e4e8c2cc4f9d1a01be2b2499a98d8ebbd6e1e7d195a04c5d58605c0b3fd1253435924eccf3",
+    "serial_number": 43,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04f4eb69a1c9c4114fe206d3cd6e685612995c3150cd0d569c7c4350d86f2e51608f8f60174ae28aefc90e88a131f9b4f4566788ab09cfab6e46f98f3cca3f1516",
+    "serial_number": 44,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "044dac7fc5973bc4342267cfadb339c453c8bdf426e751fff659f63c05afae38ea59aa452bba6fa2e2b957170ae1ffdcf2d709da9f70dc9a047ab7f28be7f49a82",
+    "serial_number": 45,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04a2d7201fa8995ac681097c606b048f0581a8d466ed0d7741d8f4024e744eef336acb99e2ba2b8396a57b91f01aeeb9657129ffecb7d821733c0432bad5e77b6e",
+    "serial_number": 46,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04d9607fceb1421c8a7e59da21b3d67a2c55c405fae163a85808375d941f4c9bf73fd8fb131b1d4ac65af911e810c61bf5cfe513b38a9d1067254c5b55a7ae524e",
+    "serial_number": 47,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04dc59d04e2a4704cda59259da86beed35aa118843077435a3e6a125de5b2b110a56a0425174959feb8540e85335479c150ae66235cbc87e426be674cd12134e2f",
+    "serial_number": 48,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "0421e61ca822e16160560234efb53361d8e32977dfa46d7084ff00fbd2a90445422c2fe26bd5e520a9e8a4a0868caad2c2e9bcb94275e18337bf12619fbb3b5d80",
+    "serial_number": 49,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04c47e3be66742914ccd93af2379f3e00a21cda159848196eb8a212698c2268daf79bdf01fecf1d55e8895c4c9e23128b509104f1744bba6d9d17ce0ae6eaaf443",
+    "serial_number": 50,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "0472253ebec5fb4380ec8968827cdf2e81d746148e62bb1d4226d5713ed0ec97faeb08736e4cc83e740b333d13c96188e22f26fb1b37459f0930576b9f16f17311",
+    "serial_number": 51,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04c878223948463963be1b662602897217a535b9d1ee7d89dc93c13855f8fd86a6104ec225edfe97cc3f5f8b3576c90ab706bb3a8f7f792ef1f77b2f1dd2667b25",
+    "serial_number": 52,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "047eba817eb1989194dcc4bf6a9cca6cf8ab8c6af2efb1450353804f25efec94d704402feb27e8645c1a0d50b7b58cdd21f65559c42a2babedf40b74314a58be46",
+    "serial_number": 53,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "0491c9d7ce90b5136b08ca0fd1168a4b7fbe2daf10279b8ec13ae70d7cc5b72771ade03d6e81235b51cde30e971164f7d0e05c5ada262b1facf210164270e15d55",
+    "serial_number": 54,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04011d7bed4716ecab0402660f3314326f8bc06da6cb563fb306f3b1b1ec52495847472630fed45c01c5821d750aba84a5e1f5569a473e3d22daa8cffa1e42975b",
+    "serial_number": 55,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04548c9f919a7bec5c2f1ade4190e0aa9612e488158d426e634e4fccf4f401801a261014e2c4e1de674161ebf18079ec8180a909e2fe278aa2369474cbc77d4f96",
+    "serial_number": 56,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "046d5bd393512a168ac4e56b45383c2de39e285ebc04a9f47afd86a4e32f43f72d8c9816c44232d24023b66d96080dd15ed567d94d1c9aa461cba6ecaebe1437d4",
+    "serial_number": 57,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04cdd477ead6fd275f5af8ddb22988546172914919484304ad8f433c825f43e969e78298e80cc08932b91d62d3d60bcfa6ddf9c7558b51c67efecaa3c2f59d53d7",
+    "serial_number": 58,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "045f6ec788c712ee11e0c5346b159c4326b64b9caa7e6d423eee8265bf435497f3fdf61624caa6aac0b8ac988ca7bd671dd3fe04278893fcaab9d10aaf555b9f98",
+    "serial_number": 59,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "045763a5b84d99540b5aad7faa5847a2ec2b86308a0ce3492d7f97c44a348d92b5f69c08a9d76c6daacedd4d30a33b8b9ad3e4756255aebabbda0e32bb62a2e024",
+    "serial_number": 60,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "0488b12a101a892f1ca64260a58ec335c3f57589c3a1169e1ab01e492a2a94273b4e4c724aa97951766805a20a27bd328d58642456f843b9a125a0c216910d5783",
+    "serial_number": 61,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04e00d9dd3b5fd355a0eef84c62297e88d919b76ad4c4dac51e41df81c9310c6ba8f289a0ef079377310bb6ec0460fcc9ee55a4ce683130d147891461f1fbfecc2",
+    "serial_number": 62,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04f06c3dde47c71b4bc154b1b79bbacd21a90bcd10320bbb9c5be61e27942f96b598d00953ba4e9907ede9a3e4a123e42c932e09b0cc66a7c9a64353a052082f1b",
+    "serial_number": 63,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04cac24b8f3b0500c564e6863f7acb9439daf8ecdced2c971862eabe8b384797ba326afc40721f984b013860514faed245c85e2ad8b563bbefef75415914fffcf7",
+    "serial_number": 64,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "0423f0c55760d21fb129f358a28f46c792458bd8e4e3207d7abceeb3d66cb383e100b9198658612d10c5da65898cd2f16ebde8a8d2ac6572a56c41cf884692eedc",
+    "serial_number": 65,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "044bbac3a347ff3f8e11c6603143db78c54844bcc0fb06aac97379ce4cc2d51d8d53ff57082dfaa989fbdd31da92788d6e2195288bf32974c50ea6f2725717c28d",
+    "serial_number": 66,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04dfd6e6625b88dee0d5f777b2d5d4e2c0b52d0887d0faed8984017c4141073c40bf15e94e68e5e7d9fb7ded37ce69012a3bfec199bb7f8e136da49448471b1d4f",
+    "serial_number": 67,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "0423d61540d54ed194fb843a2988371184eb43e3e0ae0e396d1170b40533d43fdf1ebc15bc6bb028899004b75088b062b27ef693061ad01650fb04a1ff20c89102",
+    "serial_number": 68,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "0400199b8adce858c521cfbaa7e5eea244d92184013356c8dacdd2f9a2ea435c59e01af58c6b4eb55d92083de697ca24e27a0310b5d59b94f3a0bbefd437a6af3d",
+    "serial_number": 69,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04662217d49a09344ca7681a987d9d727260bb237b633890b420a9f589fdf79e880d25e040598c228651fb445a794932e60fc95ecf46beff523341167cd3221715",
+    "serial_number": 70,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04471b566f6857dfa9aae936d7b49b430913c8bbe7b851730b47e77e643d9a689326292e9779d8341f711301d1cf94411233bb9b89aab5aee4e2b49d3534345904",
+    "serial_number": 71,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04cefb9e38c18f73853214f4e6e9c34085112cdc5762d65e2c27324f866e3f179936c734283e47113a1108906f11400d2c8511aa15c45844b9dfbc05066b881e25",
+    "serial_number": 72,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "045693238a0ee2c54ad79c1042b3e934c588fe4c92316b233cf77932d68681c9bdd46d8b74f14a3dc3c34165a514357cd932d980bca0cb9b776efca1e2f26cb247",
+    "serial_number": 73,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04994b2f83ab14a9966f9a20b14700298f211343564a8b0ddcba9d5cd0c284ecc218d57223f5926005a2551846a13e4cf1073b77eac2b9b88b9b58a4fcce672470",
+    "serial_number": 74,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "0494dbfa1312fc0f056ac38fe49c813bd0fa02ea7a5e08ef10692b41f8b3e0d6d08dc2f9f4a7e116b475fcb354681a0021eadcb83fb993b8e62d1ebe63ac72a5f8",
+    "serial_number": 75,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04660a71628e452031a522278febff0420ad097f622b626b12211ae6045d9daee49ece6e1eed272df62e13792ef16b0d3b2284339a3c2ad0033524056d906f446a",
+    "serial_number": 76,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "042863c1571f2140d08cdd0162e917d4f02a67331abfdc327f1e3762554b39101b2161643a023ee17adeafbdc3e8045f2a675054922ad2d18660d4475e0705d749",
+    "serial_number": 77,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04e954761438957cfeb13b98243c949ac7c8c6bae6d420588c5e33b9ab30e6fe1146379b14eb75f88b104e02bcd4fc0ffd0594736d303b5a3ebfccf7ce6cfda9e8",
+    "serial_number": 78,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04fc3f89004946b9e995e2af670bedb2f5bdcee8535c56f407fddc77d70446bc64ddadd05115b39456841ff59c78d0aa9367e1e136991307c2611737690cb1e03c",
+    "serial_number": 79,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04efd07e52518ee55afafc3f554fbcb6f5be8137d666366f660d07f8b72783025bf2d25a247f810e35f003ecf4dc99037835868b499abdc2e6e139827213339463",
+    "serial_number": 80,
+    "tier_code": "rare",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-rare-sui",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-rare-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "043669644fc3f411c8135e1ce17a090a8f4af4d9b893d0199c674937fd53264c384470f7f0ad26e2f251de775b162494b65adccacf15d7e26923afc2191194d8d1",
+    "serial_number": 81,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04f0819a213490bba76111bf59608b09a1b7c0e94e359a9ae894abcd78642fd305db66677da2a10afe01f36ae0ea8135ff3d3b4d99ae0c567212366f03f580e4ae",
+    "serial_number": 82,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "045963a4cda2c8caa428adb9abf36f6ddeb4d48cb4ed2305179c79f6b2cd1df32881d487dd7b0d993cfbbe0055c4504e67551b60e334b156345d430c3bf4fc6d2b",
+    "serial_number": 83,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04ca5febc85e36bc85aab075ae73c6658a44fa780bbc32eecf53753472c82f3c29b61b2ad70c22deafc26bcc987ef13e738cbf4560b0c36df8c9341b65efd33c84",
+    "serial_number": 84,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "040b863f07fbd8ff8a3825a1348397df6580dd0d94faeb8a7dc56130b6e817598fc6272588de13566864b21bbe698d54ddaf9311652fd98e2ae748b0004d243c69",
+    "serial_number": 85,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "0494be07fa72d257a97a9337174d30edc098e35abeb4cf740270a6c63a6b8affb12b0ad34dfff24a644aadcda2bac14cdad2150ac5d711ab29b8341b57f395b953",
+    "serial_number": 86,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04d7dccda7afb5238ee00d06a128d8ae4ce6b5eec3c180700e162c7e111948114bacbbfd4079052d5311a77e720a2164c3b85d54a5c30856f5eb8bc960f0956f12",
+    "serial_number": 87,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04d3a9ad15d9a1d75f75ec858008c803abb046983ddbf037a7e0de7c9a2e725bc27c42ff1e55fb410355e1843206347efaf111a85a321d507570978b47e4599c8a",
+    "serial_number": 88,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04f78fbcda5a8ddab1213bc45640a90b1e03b279f54bbf3c51c32675aec66b51155c26838372a6e646313993c7ac1ba370cf302d691fc499803b231d457838ac9b",
+    "serial_number": 89,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04b89255f0ae3b561efae4f2f5399693130118313687b4b0a407cb5d40aea06d83d5888b5a9c033e3cea4db8d48949e10401eae71c908236d457487c3db45be27c",
+    "serial_number": 90,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04c0cca73e9f96437082bb9df0ed3cbef227fa966f942b454c57e001ade91c43b1f10160e1cd1c2d977d299c6618d9348778cffde382647bc8045c35c6b0e36579",
+    "serial_number": 91,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "042d693d6a688fde2e2ab9b1d4457fed06104b484dd14f2722469c7a46ccd8f0aaa45659bdab69dd6c36e6815a339051f729c6f651f4da7cbd7c130a0489d85aff",
+    "serial_number": 92,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04842863faa02fe0402867dc864a96682e124fc511dfab5b599ce2960e6a4fc8688642ac221f569c693b30e4ab3dcf969f6cbc9021192fd0ebab70695aa986962c",
+    "serial_number": 93,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "0460299fe0fb340fe227af4beda3cdae7381e66fbe5d9524fd785b59e1e6cc6ea1446a1d370d323673745ad9822693a4af97d1dd28636473db2e6592ef070c0ebf",
+    "serial_number": 94,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "043410ac1ed01b31bcdcecbd5e3d63e6d4eba3dfada6cb5fac77261be88eb2670d4e4769f9a979002b04c4057cf55eb206ec71db4c22f49c6002003dd22012f2cb",
+    "serial_number": 95,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04261e1e76cfde2512ef577c33b5e692d11eff468831e11a63445bc6ec622beea369a5e2ee51ddc6ff3b2f8c46e420988343937f2fff6ef98fc16f302954033f39",
+    "serial_number": 96,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "0450e435cc73b907355cd979e895ce6cfbcc3b96517e25d24677dc632c1aa707bf31d2a0afef48d5677d6de9884ce61b3dd13d3448969a74af9965eaac97416824",
+    "serial_number": 97,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "0460ab8dd8fda7d2ae13fc2ba29c356e15aa4b1ab29ce4b8a96448b86669b649d0d61e2ca9fdfadec04f48214387da278e8077788a02514332cf7155012cf1e4ed",
+    "serial_number": 98,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "0477943fec0d86ccf9e84bd304c1c94982b8044c9ec784b889aa6bc98a9fa9eccf07a411600dbbc846f8d8844d13633e503ff745bc8a15be17808a516931bd6b1b",
+    "serial_number": 99,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04fbaa4c7720c80ff60925f82d01cbd4eb50cb19c592c36cb46e682d61b84ceeeb745a4e901b9dabf24327adae2cfc84c4462492bbba7805ad5c8a930b0eaeb0d3",
+    "serial_number": 100,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "048e25ef59f1a20434b016d945cbf85136aa66386388c8a5c13b6943c573d5cca9bd6234bc2a3a295b912ab83e8364f3c13509d057e5f0c6c6cec6dfd6378e4b0e",
+    "serial_number": 101,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04e2388005bb7b8a3b2a468b4ed5448fd8b231e6b458a08a947e5bd5a76a2c9be1a0ebc9995589685a1239a6551929293a552dae828661ece2353bcf7da21e8fa4",
+    "serial_number": 102,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "0429ad8399528b7516bff4247fabec226daa53c84bae32d54a5d24b478c506ed7b4797bf0603b99b4d51c51343d95aaddbbb2f3c90809abd37e349fd0bd4b9ed1e",
+    "serial_number": 103,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "0495c77ba97affd4a682bfb659b530e5d2bc940810c3fca2900726211a3a5b9c4194f135d62ed474d7f1698a7ed6d56de837c7b878a6ced39a13c08a5a52da8ca3",
+    "serial_number": 104,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "043d7f843740e8f67678234649d70cfcd6b051d13f32fc569d038d1bf7e91ba8355faf87d39774dd9c1f7f766426661eef373a06d1c0dcfa14366666ce2e067d6e",
+    "serial_number": 105,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "047bc6c87c94939ec16147a55d3f98ff251bfdb473f71f732905f26fa5164a96d6e63b465c26c87704ed2518bc02dab8cc46df5c29939161be66b333fec44189c3",
+    "serial_number": 106,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04ff43fd2416b35cb15885af6d1e771d54528892dbf1e7ded2851d38672f887f8a8c55993340e56fccede608cd856305d8f9a8ea7b9d4d14591cc621856b56b6ef",
+    "serial_number": 107,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "049d1900d0435493d6a161751fe65ca651b6cd77607779130cde199d4e8168c7bf5f15ff7a71ca783db64eeb4f2bd10498b399287b435899483181ebe023bdf751",
+    "serial_number": 108,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04d8fdae911ad1d71f8b59414860304d55bebff829d188d385f90f977da83b80d876267fc089ca8a05579f4704af622dfde6a860e87222c283b903864d4293795c",
+    "serial_number": 109,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04c50f6a3a6ae329bb24476d632ef07279141511ce3c7f17e75df281acf22b5af3f3aa31668de37c146bef1035cf592397f7d9bd2a24927775fa0b70a3a5126e41",
+    "serial_number": 110,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04e8753d79c299edec085565405edc7faa151b0d152f26abd9dda03aa7e50f66f022bfbcf4f0f9364bad1d0c321e416d3da8b46828b1a7a6656a0c3d9b114484e0",
+    "serial_number": 111,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04454a04a0a391d57f6d204183a1987ed67b9dc2d56bd99e59f57af0fddb70266792ed3c5e36c4d22377370da83ca1b0d455c6555a78a5ff5b378dcecb770a7bd1",
+    "serial_number": 112,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04af07761f30f57bd4a5661429534a08a70ff218354b1b0efbee67840223a70d7d1937df5c779678e59f7e427143e64ea11443d6142f7197112f91088b8eddd3a2",
+    "serial_number": 113,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "040f3ee099c9afb0ae0aba3617b11d529336067a55db62545bb5d1cee6b33a37b1eff19287342782ceafedbe8b7e830db8c6f47c2b2278491129d0ed84183d0c9f",
+    "serial_number": 114,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04b32f95f783580c85979ecd537034f1062e263802da49b9fe5d1bf887842662ebe3302b5dd7e3e884349c0ec4509e1fd2559594e0b9eaff135f8c1a797cf3389a",
+    "serial_number": 115,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "041d49f579d18ca24e404a926ee23bdead005dd294d4caca6ec370e521351f3f8e2b65cf01e8bdf5cb57ccb6fb0f53a0b6deea5d188ae2efd373265d583af69d13",
+    "serial_number": 116,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "045cbd3ccd7caff629cf1d4d0d7650c850f430dd7e31074fa4fcec23246ce6cc7aca3002eff7fa84694790852318e1512357f7bc9534da02b057b39e315b89e0ec",
+    "serial_number": 117,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04d253ce835e8854c5a7d59d4ba312750cc307cd4396a30a6be3e8f4f8b452e242982a11e128b7d0fa7f9a7d2041778a4496fdf1a9a24836cc07717a26cd5a483a",
+    "serial_number": 118,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "0447c208b29fefc5a6127165b68ee277912db336455d3ae493cf98b5aa5fb2062ff6f86573ece198f2e3f3a683b0d52669b047879b8569b62c08d5eb9465a4b80a",
+    "serial_number": 119,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "0403521b086dddb380d64cba9ea43bb03700176d0a0cf017dca054d05c0f6ae36c329256169d6fb4c4b603e34e106bde22952e029a793f36c4afc8efc5d2a97b0b",
+    "serial_number": 120,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "0414898a3fcf9310ac49e840a36f96d620183c7a1759df1792c0aba55c9c2a0bd6e25404fdf92734a57d323c3a47374b8f1d8c80456cd0f870907490f1a56a5da7",
+    "serial_number": 121,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "0411b391fcc0a559697b63b671b2059188fa2d23e229eb97a7770bc9328f81b41302830396347813eb828fbd648b93ff2cee1195744f0cf9b8cbcc7c44d4559794",
+    "serial_number": 122,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04cfcbf7ea8cae53a395c34e531a26abfd36505a4c6d8511eac89cced81c965c206adb82ffa0fb541830a62fb0959b85e5d42d57f31c04a5bd038b13530a28ea2d",
+    "serial_number": 123,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04aa79b7cceb7d6e3a1202300f20b70e9868c68dd042b31a36d3c03af9e729bfe6ecbb0fa7f66bdd3087155bd8a00a5d5794be4965fe3233c096b039e30894d65f",
+    "serial_number": 124,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04cf12153a0c603039a90c284c105d2e555c59a7619b60537b8fd7015fde0e010803abd9d3230a2404e705ce5b045f58e71b1c4c4fb9eff91b383cdba7ea0669ed",
+    "serial_number": 125,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04d3b5fa61bb504ee14711d20ab653bd85cccd7f369feda43ec16e0f9f961ad2ffa525d3ec6e9c926a8056b0593914a70ed035dc4d9c7e06366d1d0058b14ce6b6",
+    "serial_number": 126,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04874d325588d14a98a55e108ef6c7c2a7f1c9456464d234736e0dfec20470e09e25e87aa85af5ebf26d87e26ea8ac11b2b68749b2d4b416cffb60e3b81e3d691c",
+    "serial_number": 127,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "043e23e4774b4570893872fc53955358cd9dc194377a296969becc9b1030e538332cf23f6894d035bcc3d3be320fe10008da1f10cdf855a5dd2502205f07e149a0",
+    "serial_number": 128,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "0430f4f30000ec52573d70e7aeda699a9329732de4f109d5fe85e9ff5d0c274b2a97fc8be73e96e78e1288a9e09372f6c922dd3e63805977ec24e943cc316aef70",
+    "serial_number": 129,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04fb3be0ebd8c874166bfc3a7121a9efba6b4c126bfcca43eb642a651febeb89f44aa279f3d88cecc8c4eb256933c87ebafdb8bb2f8acd6a2574702f3aa5f6a668",
+    "serial_number": 130,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "044d3764f66887c1076ef09f3167dfb17884716d43fd3db410b850dc926f64131e28edfc019ff2f96cb8abd23e248a95c250cf83fe46bba28718fcc290d55cedb5",
+    "serial_number": 131,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "045debf3b5b6b19cafa6614144bba97a4a82e167b12d8c731d27e6e19be9c0ecdaa660b7b73a1f17a140798c771918117b3a302b3b2668745007891edb2ee2aa5c",
+    "serial_number": 132,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04d50501013309750cde3b5a93e236072785af9053a0aea4681decdbb5979c6479624bbad44be5f2aff8b20e65e1078fc547046365984da128215a6ba053f3783e",
+    "serial_number": 133,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "041bcc06ebbebbd4b9be76a33c7fa885d712cd3b458222c637c52a8762659482b03c94f09a8d4a6fd0cc8fd9d76fb5b420b46b0309283c3f0abc1a703fbd9d8fb9",
+    "serial_number": 134,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04a0ff122ff0f94506b269ecf0777813905ab85237e4b2985fc0e20377e1f5f13f9870021a642cce5c17013e14166d43bbd08951cd979194291a03e915cc9599d7",
+    "serial_number": 135,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04d16946fb4e4f202dc519a135d6a7f7603940d0402b03d3d05a22de5b55b8f8a76c6ad7dc2ad994293a46ba5e82b358e5f21aa5ea9e2ce6d850b0f6c27d4a6085",
+    "serial_number": 136,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "0489c3acf061256a3134bcd52f2223cefeabd15ad870a3faf79e87189419cd5efc848ceaf768160ebbc20a4e33cb9e9195f3689596f1448f64be3f704ec628ca68",
+    "serial_number": 137,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04f389a201db1fcd4d08d28d12c6f2207566e65eb2feeba29972c8f7428e754956d623b021669eebde52ec901e902f5687cba12ee3fa97307f3feb1de2b05efe86",
+    "serial_number": 138,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04746f577956d9bed71f31629d67dd19126dfa1696664a738da7657b4cceff73b646736d2d9d2972c3a61bebcf3bc8155eff3067b5aaf1064965bf91705edf0f78",
+    "serial_number": 139,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04cebd96e5af2c46a3594ae607a07333bacdb257508be881fccb38aab9f7d93a2aa7b9a85ea0bf523908ca54ae4f1885163d11194c610a041922a8da8d3e0700a5",
+    "serial_number": 140,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "0431c7ebe69311fa01593fc0ff7d4ff57bbba8fb5ee4433f9d52f0b2c4dcee66336546191724c673fd893ceb84e8e5605c20b4959cc7538beaef554f8d5b2e77cb",
+    "serial_number": 141,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "048e1e8ba15ebe6c727a67ae9a435bbf40f1c2ab5a603eb4d70aec1faea019091656b810d661b9ede142668198e2baa77364e3b268fcb0a664d06a59ad107abc9f",
+    "serial_number": 142,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "0455e29faf7c871a5a52b84d7a79a15064e5d28ab6120f54e653106c245670f9e82a26402ec373fb8fcdabb6f14b5ad5c8f90525791e376bb91ad05b946c361c83",
+    "serial_number": 143,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04906af357c046b2e4653f57a2f44a7a347c3d2fa1fe296eb6d57bb52f6eb1b332ecbb1d74f3bbcaa5fb02b2bdfe8998ca86ba80d37603b4c0205b4ac7922d8f5b",
+    "serial_number": 144,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "044ce4cbf3d38def135b4d3fe5624247cd814ec98db576ba98d3fd77f29ccb005d51d19ecc7e1af449be4c2ebd96a784c1132878083726468cc31875fb36337317",
+    "serial_number": 145,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04f54f3723648ef3c24a5310ef7130d2adde6979467061ac7a45ad794d153df065cf4222abb39f22427d8a9dc28294602e767d22078677a1ee7319d4c6a44ed6cd",
+    "serial_number": 146,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04ae2126b9f54f561944ec9f9f9c63d0a819c85662edae9aef182660c1a1ba5bda374c469d7c56609e0da57d869051d853111ffa81509e8df7df10c07d0675fc3c",
+    "serial_number": 147,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "042674c4719b8ef656d3340c8085ccde67736f4c6c60676ec6c57d28b042211d6fc5ab7ddc2e00a4bb0aa7ef4c9e4b17043fa5bd025b7ad045a9213b6c0f60c2a6",
+    "serial_number": 148,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04a009b40bbb78edc64f7f554a5d33676efb2667c7a1318ecaae0694f8078edca2d76740f988a67161d724fa2ad796058f7bcb8bf2139554481573dfcbab0ca2e4",
+    "serial_number": 149,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04076b9eb4396fd3d4a00638aa646eb2c1717d511bf3224c1f67998c7869affdca74570e12de1b67ee8f11e41eab02e82cbfa279c8313b56f1d19d8e5ddf78dc9c",
+    "serial_number": 150,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04eda56e81e2b2a48b3b4a68be5de0e94c65a4aaaf33cf9edb39ba1ce8260bdbf706c3c01cf38e15e31f15e657f9ecaeb066b1c458e637bb8b1445b14a289f5c1f",
+    "serial_number": 151,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04f6d80b2ac9ce599ac030f64bb2746cb52f7ff5de5dc314a732f97f8a41f1f42f08f4aeb66020a54eaef2169ee05e74a2f9a81b6eae488486fdef216603653f55",
+    "serial_number": 152,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "045ce60b7aeba9ef0a06204a76858edf707a604aefeb665570c5555f298ec35b6c073288c0429c5d0e3158228545fee626db3c3c74c1c5263758a6eff9ba661545",
+    "serial_number": 153,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04e8061a516a25538aa0502e0280760214588baea9678d1f595df45816ab5515f67ad822e601edb9193d3501687b2b451f2ca119bbcd838241d112225c1bbd5b1b",
+    "serial_number": 154,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04dd95b11f4b373b172e1df72a8226043aeb7306d111b571965c2a4347ec864b6ee1cec4c1fff0df4de4840f0a190590c44ad2f43691a123c62ddbc780cbdf5a85",
+    "serial_number": 155,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04ddd61ffb4785b7a4b97e646b5e348f7dc8e1a60c1cdc689957311f65bfbe6f9873c943f252dde192ed8c4a960091a059e88e86e47fbbc8a3679cfb215998e684",
+    "serial_number": 156,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "048aaa4db315a6d7731b96e6c0280f5c136017064b551bcbf2be6de290f76b69a639d6518f870f4b7b46513c070616faeaa376df43bf3dafb3dd4831e6ea95b9c6",
+    "serial_number": 157,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "043599c5d51f913719393c64ca145b311f1c92892f1749e1c7c38d840a254707427fb893a4238718a3694d4fba2af17242a9fcebaecc60ce71f6ee88f5e977dbc5",
+    "serial_number": 158,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "049c954eeb6de8e460edead5b500c065e2512026cbe85df2760a58c17a09096b3ad3f306387e2ab81f13377de7e7db0176658ac476a7cdf8091550eb2cd4f88072",
+    "serial_number": 159,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04e6fabd94add1b58bf002e9eeb272f0484b12652764c657471a3a0a7aedfd48043526ef843975eb0e82f3d8b57180c4a1f1b985989b6fd27815194aa204566dc1",
+    "serial_number": 160,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "044732b0dceca4f7d8bbe631842bbf05638b91459ee9be2d9371858c4af620ffb0695806fbc2248ed521ed7e10d57991c68231098ace5e726a0be3645b14e163f5",
+    "serial_number": 161,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "042edf51c8a9133afa50a65a594f4151cc3652121b22b2ccb47e6d84d3f5f3da4b473fb5f8b6183c5e17a12ef9d88cba40ec6efbc84ad82ad776b60033e5dd69de",
+    "serial_number": 162,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04324a59956cf0a92dee547d4166511186b659788715732f2cf050618a2f510177bb4e6261bd679bef654d1a3eace592859717cef9e222a012d5170d832c2a9a6d",
+    "serial_number": 163,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "0497113d50c7fe43cd6f370803a8732121ca0ffaab15c71ce9d2663657cada9b95240286ae2853bc963e937d9062e68d7c70be7ea28414844d4e56655b262a2a94",
+    "serial_number": 164,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "040713a9ba23b0fe391b813baf3a2fd9036b91d35f39021ff1fd495b4548352ebe27dc03fa72737ed1d977117de567a098c67d4acd99a4625fa102908e9de49020",
+    "serial_number": 165,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "041ff0bec3b27b4e6bed9fd33ca4af3bdae1805e4f298fdc3c4d031274f960625725fec2e55f188d41fe07b0448095d1dfdd7b9a1e8d12948678ebe21afda42e86",
+    "serial_number": 166,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "040a81b7b20f4eb80800d0fe8dfcaf9d9a64428f2759b08434a7cbab3db48e47c00e7f3d91952cd41b76a43ac8beb977a296c87480304a3a56d99855c590af3031",
+    "serial_number": 167,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04e0ee87395e2b0ac5e91e3a69fbd98d8b33d714701058915df39c8fc20b6bbf2cf5c1643430cb33585b0daf334df91467a7ce35ac89bda15430efcc7cf32cc817",
+    "serial_number": 168,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04d75fd0c32e28ed3117e433abc366d4645ef819fcc472ff0e2a0644b81af329691dbf08767c603f34b6d7a925dba500de4ae391685ff322fa250acb70858458e1",
+    "serial_number": 169,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04586872b0393530498eb0e564423fee22376103c6b5785bd2bf29f69cc4aecacd19a475184a079b90821806a5bc7b8149130f95fdd01e463187485d5ea2b46dd0",
+    "serial_number": 170,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04727eb0827fe3675bc92ffb2cd6fa385139e92461228b0ece87e599aff2df054e2d84119051ebc9d99d9cb5609d0d5c7a812262f464b77a25c27c4f5aff4bf020",
+    "serial_number": 171,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04b299f07d38e1dd215fe8c9d09174c0c675b0041cb91b45db3197243d282e8d3d3d00d0d92fb12df72685ecf0b3fa99dcf0f982a6d90b7ebe829151dd5714fd8d",
+    "serial_number": 172,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "049ecd39fff937ed06b71b26e96c6e5932941aefc0cc8bc187072888d19983ce5d56d794086c9b754edfb553e7a9a8a2166de7683c084d17f4c68f6e69faf679a0",
+    "serial_number": 173,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04fb9d928bc0aaa4f3b9f5393444dac636e0f4ed39965273804fde7ea99ce393b8f7568801a9aca2707727971520383a64be1bdc2ba6a7056cfed075bd5fd2065b",
+    "serial_number": 174,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04424e0d9627208e6610779cd786affaa6ab946ede9981231e0526d66b46a552fcca9efca9c3e9474461b93893688c2cb3b7ffb00fb73303690bdcc56e49d743e5",
+    "serial_number": 175,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04348a79e5639f151be5f799ae4d6d4acdfa5875417213aa0f3006ee6e9be9db1b63b8c1c4bc09bbfa15df0067fab1086dc7c2faf3e0e3d4224aa420f780c0072e",
+    "serial_number": 176,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "041561896b7bbb179257b35b12babc8d65931f78066126714bf9f37b484a9ca0410b267ef2978e81fcedba6180d53df2b4799d1cb94f9b3cab5140a61ff8431d72",
+    "serial_number": 177,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "0472fdbf44529341198622e90413e0bc999833be3c16dcd829f227334a92ccb61335724e87e97b5ef0275124077b9c07d5f4a5730f5251ad5633be9548af1ca4cc",
+    "serial_number": 178,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "047e033a3aff0870a0111f8eb18d814c2ec549c383c05cc6669b332186024d52d0b97091a297bc49c640ac6634b18ca4225a21a5f9d3cb90fc88cf65c09a732243",
+    "serial_number": 179,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "041944994253d8fa53f2e5adadb6974c5c04b4c117249beab629f88fde64a3c50814285b55103efcf82bebfbdee37aa9e5d56838f33083ff51b5d66871aff5a9ed",
+    "serial_number": 180,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "049ec618579257c2ea7ea1a17ee941632d3c45426f240e9476ad43bee8aaa3178c4f9b19892f2c32828130e83cfe7ba35f67bd41e42ec4442624cf68da71b84da7",
+    "serial_number": 181,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "043a4de940a35b2ad62930a6f14bbb6666879fa09c56afd1cacc71f2f7a2f37f3a4a9fc7fe0c784162883c13a797f56fb5b58c07bf5be5f62070795d129c799c7c",
+    "serial_number": 182,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04b264c7970dacd5782196f4a3d2385c10b89bb152144bac745778c3516fa4ea8cf2a4e7d7ac6af270e91f09913c2ba5a4cc8215cdc3c9186c9a37f30d3d871eaf",
+    "serial_number": 183,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "045220d0b954092485f215ee3a101b4926f5aafbf5ef73237a080929632e592059725f28fe840dd5b69618a55a69b19851debdfd7acb32b9be0c4dfe59a03dc0d3",
+    "serial_number": 184,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "043da8395d52b91b7e4b8003e2d1f8e024a01fb0783c7dfc0b2359a932cff0d9a5c969f6ff99ceef8e12272c250d190d183f46858658af182272675d1d84cfe9cc",
+    "serial_number": 185,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04f3c5267b3ead212503a87bdbd4c53f53ad6e78ec7ffce8ae28a746868f8a2aa180e74b7a6651a74527dde58441f2a020daeac7bce8b4de354043c4b12e8912dc",
+    "serial_number": 186,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04130d692a13310c93f817cbc9e4c469e7db44ac61f7d0119dbf998cbf6f59f0ed5e52f1fea45936a217e44186fcc5d4f8bf88cce00d5c0a1cd8c369b3b2f0d1e7",
+    "serial_number": 187,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04f84c3f410bb49445b4e4648514d06d140cdd25c526c50af790512043d4d4476e5deba694c91e9b1b3e846bf505decf3677f5d1975589c07cbbbcb7f99d647f5f",
+    "serial_number": 188,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04d10e684be5494b8920fcc731d34c973f0165c9b49f7c4c99d7cfbc4956e108332de3d7180d345fbfa8e40cc7da9d41f579f1aa67d6a75756bd4e886978a5292c",
+    "serial_number": 189,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04f4b78e86e67353de17b14bb561f96ac421d7b376c26cd0b0b8e3ea2c7559901be34adb4e9785dcf427d6251b5d79161ca4f0b61df6c200ddd670d9626c3c6f62",
+    "serial_number": 190,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04d8c6d2418a8d714ece473290b4f04801ab8834b2fe7fabcf3ffe87bae9f1b7a52a3e338e8e93591ed49a2d946cfd80635686c0c5274d8e01cf1564d6c10305d4",
+    "serial_number": 191,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "042271e75582252bb200184394ecc7499c3fec225afdcafffa9c35c5c9a88f578dc11759951f5744d2110325002661429ae7f9c14eff70c01d024085a90517f0e9",
+    "serial_number": 192,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "047b0b6dfb572c492698d4cb4f769f95ca6f27289d717ad18fc18c937cc0d5738a3cae79123de73461be236da06f4551ed8878ac4f154166453bfd26738922cd57",
+    "serial_number": 193,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04dcc4c0ecb38742b0176c01ec0618f450e9f0f01f85db22457d6ae611b91144e691d6f5476f4f692888e53d2606d5168ef1598967b7d18200bf187890d1f62b0c",
+    "serial_number": 194,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04d0c854215526f9564a279461a91cc0fd8680f2a4532eca3c6ad6ab08ff8a25e0191016cc309bad9b818ed038072d53aa91e1c65ec07bb33bc151cf4696a1363f",
+    "serial_number": 195,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04f9ee05d91e1c976bc90720f1051e429aab9ff50868b8be7fd2fe23be9c58c6d9f8420fa7dffcf910a98fb6a6553b9e037a0534072ce616edd9c1d19009992269",
+    "serial_number": 196,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04868d604d0b84ff0275967df74369d7c45ccd587923a75564f9cc4f8bcf747566daede4baaa6e26155a7de40629577b9b70ead370fd365b74576eb74de0cc7d28",
+    "serial_number": 197,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "044891db8924931410255cdde3fa89a7dc3867c9c556fb997e421157736649bd6e80fec8837777fe427b03b9dbf4d86e1755f7fed0e23ac19212f66b4e84612152",
+    "serial_number": 198,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04fc8e33eb7929385a26ba0eee9665b8381a18259a4bf37e4d693810532cca1d95f2d2f36a5e6f1d10c887f58a2392c8a9f09c24474e129156aec38c7a7fa5d848",
+    "serial_number": 199,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  },
+  {
+    "chip_pk": "04246596be041e1b56251d7c198fff2c5d2776e042824fbe4777102421a1bb0462ca7a5a0ee5c53351c2b1714e9da22dc9bee436e4b07fa913c407fb995ba5fd23",
+    "serial_number": 200,
+    "tier_code": "classic",
+    "batch_code": "tokyo-1",
+    "benefits": [
+      {
+        "slug": "tokyo-1-classic-oneshop",
+        "is_claimed": false
+      },
+      {
+        "slug": "tokyo-1-classic-athlete",
+        "is_claimed": false
+      }
+    ]
+  }
+]
