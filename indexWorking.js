@@ -13,21 +13,6 @@ const creds = require('./jacket-scanner-25015107dc9a.json');
 const SHEET_ID = '1bx3X2jxB-4rf4GxfUUB6lFlLQvonSbiYzJVDqgS5xsU';
 // --------------------------------------------------
 
-// ✅ Google Sheets Auth setup
-const serviceAccountAuth = new JWT({
-  email: creds.client_email,
-  key: creds.private_key,
-  scopes: ['https://www.googleapis.com/auth/spreadsheets'],
-});
-
-const doc = new GoogleSpreadsheet(SHEET_ID, serviceAccountAuth);
-
-async function accessSheet() {
-  await doc.loadInfo();
-  console.log(`Loaded sheet: ${doc.title}`);
-  return doc.sheetsByIndex[0];
-}
-
 app.use(express.static(__dirname));
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
@@ -37,38 +22,42 @@ app.get('/', (req, res) => {
   res.sendFile(path.join(__dirname, 'index.html'));
 });
 
-app.post('/submit', async (req, res) => {
+// Route to handle AJAX submission
+app.post('/submit', (req, res) => {
   const inputValue = req.body.myInput;
   console.log('Received input:', inputValue);
 
+  //const data = JSON.parse(fs.readFileSync(path.join(__dirname, 'jacketData.json')));
   const data = JSON.parse(fs.readFileSync(path.join(__dirname, 'chipData.json')));
-  const match = data.find((item) => item.chip_pk === inputValue);
+  const match = data.find(item => item.chip_pk === inputValue);
 
   if (match) {
-    const sheet = await accessSheet();
-
-    // Check if already exists in Google Sheet
-    const rows = await sheet.getRows();
-    const exists = rows.some((r) => r.publicKey === match.chip_pk);
-
-    if (!exists) {
-      await sheet.addRow({
-        serial: match.serial_number,
-        type: match.tier_code,
-        publicKey: match.chip_pk,
-      });
-      console.log(`Added ${match.chip_pk} to Google Sheet`);
-    }
-
     res.json({
       found: true,
       serial: match.serial_number,
       type: match.tier_code,
-      pk: match.chip_pk,
+      pk: match.chip_pk
     });
   } else {
     res.json({ found: false });
   }
 });
+
+(async () => {
+  try {
+    const auth = new JWT({
+      email: creds.client_email,
+      key: creds.private_key.replace(/\\n/g, '\n'),
+      scopes: ['https://www.googleapis.com/auth/spreadsheets'],
+    });
+
+    const doc = new GoogleSpreadsheet(SHEET_ID, auth);
+    await doc.loadInfo();
+
+    console.log(`✅ Connected to sheet: ${doc.title}`);
+  } catch (err) {
+    console.error('❌ Error:', err.message);
+  }
+})();
 
 app.listen(port, () => console.log(`Server running on port ${port}`));
