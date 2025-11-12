@@ -13,11 +13,21 @@
       }
       button {
         padding: 10px 20px;
-        margin-left: 10px;
+        margin: 5px;
       }
       #result {
         margin-top: 20px;
         font-weight: bold;
+      }
+      #copyBtn {
+        display: none;
+        background-color: #007bff;
+        color: white;
+        border: none;
+        border-radius: 5px;
+      }
+      #copyBtn:hover {
+        background-color: #0056b3;
       }
     </style>
   </head>
@@ -29,12 +39,16 @@
     </form>
 
     <div id="result"></div>
+    <button id="copyBtn">Copy Result</button>
     <button id="tryNext" style="display:none;">TRY NEXT</button>
 
     <script>
       const form = document.getElementById('checkForm');
       const resultDiv = document.getElementById('result');
       const tryNextBtn = document.getElementById('tryNext');
+      const copyBtn = document.getElementById('copyBtn');
+
+      let copyText = ''; // stores result text for clipboard
 
       form.addEventListener('submit', async (e) => {
         e.preventDefault();
@@ -44,6 +58,7 @@
 
         resultDiv.textContent = "Checking...";
         resultDiv.style.color = "black";
+        copyBtn.style.display = "none";
 
         const response = await fetch('/submit', {
           method: 'POST',
@@ -54,21 +69,32 @@
         const data = await response.json();
 
         if (data.found) {
-          resultDiv.innerHTML = `
-            ✅ <b>FOUND!</b><br>
-            Serial: ${data.serial}<br>
-            Type: ${data.type}<br>
-            Public Key: <small>${data.pk}</small>
-          `;
+          // Prepare formatted text for copy
+          copyText = `✅ FOUND!\nSerial: ${data.serial}\nType: ${data.type}\nPublic Key: ${data.pk}`;
+
+          resultDiv.innerHTML = copyText.replace(/\n/g, '<br>');
           resultDiv.style.color = "green";
+          copyBtn.style.display = "inline-block";
         } else {
           resultDiv.textContent = "❌ NOT FOUND";
           resultDiv.style.color = "red";
+          copyBtn.style.display = "none";
         }
 
         // Hide form and show TRY NEXT button
         form.style.display = "none";
         tryNextBtn.style.display = "inline-block";
+      });
+
+      // Copy button functionality
+      copyBtn.addEventListener('click', async () => {
+        try {
+          await navigator.clipboard.writeText(copyText);
+          copyBtn.textContent = "Copied!";
+          setTimeout(() => (copyBtn.textContent = "Copy Result"), 1500);
+        } catch (err) {
+          alert("Failed to copy: " + err);
+        }
       });
 
       // Reset UI for next test
@@ -77,6 +103,7 @@
         resultDiv.textContent = "";
         form.style.display = "block";
         tryNextBtn.style.display = "none";
+        copyBtn.style.display = "none";
       });
     </script>
   </body>
