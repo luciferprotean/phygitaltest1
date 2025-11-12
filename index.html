@@ -2,45 +2,98 @@
 <html>
   <head>
     <title>Public Key Checker</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <style>
       body {
         font-family: Arial, sans-serif;
-        padding: 40px;
+        padding: 20px;
+        text-align: center;
+        background-color: #f9f9f9;
       }
+
+      h2 {
+        font-size: 2rem;
+        margin-bottom: 20px;
+      }
+
       input {
-        width: 400px;
-        padding: 10px;
+        width: 90%;
+        max-width: 500px;
+        padding: 15px;
+        font-size: 1.2rem;
+        border: 2px solid #ccc;
+        border-radius: 8px;
+        box-sizing: border-box;
       }
+
       button {
-        padding: 10px 20px;
-        margin: 5px;
+        padding: 15px 25px;
+        margin: 10px;
+        font-size: 1.1rem;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        transition: 0.3s ease;
       }
-      #result {
-        margin-top: 20px;
-        font-weight: bold;
+
+      button:hover {
+        opacity: 0.9;
       }
+
       #copyBtn {
         display: none;
         background-color: #007bff;
         color: white;
-        border: none;
-        border-radius: 5px;
       }
-      #copyBtn:hover {
-        background-color: #0056b3;
+
+      #tryNext {
+        display: none;
+        background-color: #28a745;
+        color: white;
+      }
+
+      #result {
+        margin-top: 30px;
+        font-weight: bold;
+        font-size: 1.3rem;
+        color: #333;
+        word-break: break-word;
+      }
+
+      @media (max-width: 600px) {
+        h2 {
+          font-size: 1.6rem;
+        }
+
+        input {
+          font-size: 1.1rem;
+          padding: 12px;
+        }
+
+        button {
+          width: 90%;
+          font-size: 1.1rem;
+        }
+
+        #result {
+          font-size: 1.1rem;
+        }
       }
     </style>
   </head>
+
   <body>
     <h2>Check Public Key</h2>
     <form id="checkForm">
       <input type="text" id="myInput" name="myInput" placeholder="Enter Public Key" required>
-      <br><br><button type="submit">Check</button>
+      <br><br>
+      <button type="submit" style="background-color:#007bff; color:white;">Check</button>
     </form>
 
     <div id="result"></div>
-    <button id="copyBtn">Copy Result</button>
-    <button id="tryNext" style="display:none;">TRY NEXT</button>
+    <button id="copyBtn">📋 Copy Result</button>
+    <button id="tryNext">🔄 Try Next</button>
 
     <script>
       const form = document.getElementById('checkForm');
@@ -48,7 +101,7 @@
       const tryNextBtn = document.getElementById('tryNext');
       const copyBtn = document.getElementById('copyBtn');
 
-      let copyText = ''; // stores result text for clipboard
+      let copyText = '';
 
       form.addEventListener('submit', async (e) => {
         e.preventDefault();
@@ -69,7 +122,6 @@
         const data = await response.json();
 
         if (data.found) {
-          // Prepare formatted text for copy
           copyText = `✅ FOUND!\nSerial: ${data.serial}\nType: ${data.type}\nPublic Key: ${data.pk}`;
 
           resultDiv.innerHTML = copyText.replace(/\n/g, '<br>');
@@ -81,23 +133,20 @@
           copyBtn.style.display = "none";
         }
 
-        // Hide form and show TRY NEXT button
         form.style.display = "none";
         tryNextBtn.style.display = "inline-block";
       });
 
-      // Copy button functionality
       copyBtn.addEventListener('click', async () => {
         try {
           await navigator.clipboard.writeText(copyText);
-          copyBtn.textContent = "Copied!";
-          setTimeout(() => (copyBtn.textContent = "Copy Result"), 1500);
+          copyBtn.textContent = "✅ Copied!";
+          setTimeout(() => (copyBtn.textContent = "📋 Copy Result"), 2000);
         } catch (err) {
           alert("Failed to copy: " + err);
         }
       });
 
-      // Reset UI for next test
       tryNextBtn.addEventListener('click', () => {
         document.getElementById('myInput').value = "";
         resultDiv.textContent = "";
