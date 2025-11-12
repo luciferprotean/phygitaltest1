@@ -4,17 +4,15 @@ const bodyParser = require('body-parser');
 const fs = require('fs');
 const path = require('path');
 const { GoogleSpreadsheet } = require('google-spreadsheet');
-const { JWT } = require('google-auth-library');
+const { GoogleAuth } = require('google-auth-library');
 
 const port = process.env.PORT || 3000;
 //const creds = JSON.parse(process.env.GOOGLE_CREDENTIALS);
-const creds = require('./jacket-scanner-a9e87365b5d8.json');
+//const creds = require('./jacket-scanner-a9e87365b5d8.json');
 const SHEET_ID = '1bx3X2jxB-4rf4GxfUUB6lFlLQvonSbiYzJVDqgS5xsU';
 
 // ✅ Google Sheets Auth setup
-const serviceAccountAuth = new JWT({
-  email: creds.client_email,
-  key: creds.private_key,
+const serviceAccountAuth = new GoogleAuth({
   scopes: ['https://www.googleapis.com/auth/spreadsheets'],
 });
 
