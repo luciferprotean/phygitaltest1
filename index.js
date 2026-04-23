@@ -41,7 +41,7 @@ app.post('/submit', async (req, res) => {
   const inputValue = req.body.myInput;
   console.log('Received input:', inputValue);
 
-  const data = JSON.parse(fs.readFileSync(path.join(__dirname, 'chipData.json')));
+  const data = JSON.parse(fs.readFileSync(path.join(__dirname, 'chipDatav2.json')));
   const match = data.find((item) => item.chip_pk === inputValue);
 
   if (match) {
