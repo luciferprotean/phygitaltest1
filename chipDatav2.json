@@ -1,0 +1,2214 @@
+[
+  {
+    "chip_pk": "047d96bf6cec234223c9ff6ab87793954705c84c9f019628911b61552d2c7601f108678a9bd1798a18ce9f862246c517f8eda1649d40e227e9a873be7c7728ad77",
+    "serial_number": 1,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "044bbf73dddf1b9f82e8d615f618d6dc3181d2d278ecc995486c6a7880784f3f903aa30391f6eb595ac319c2df6e9ee8f5b19e49ddddc77770d648ade399f352de",
+    "serial_number": 2,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "045733690a23f1882f780696c9a6de09f88da2797198ab600df46f257061450506dec3e998eb038347eeca5d0a3e33ff4d65096a81982f82ca510118d4779a0f6b",
+    "serial_number": 3,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04a6be64cac529f8b896471574fe5c03c60676cae0ba51ba8869b880f63f003f8998e140f02f1595f9cbed07b0cd87bcaa44aebbdaaef3e88d7db376bf131b2c21",
+    "serial_number": 4,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04584067095a0e59aaa3731a426f43eca7c06d75834bcabd0f64e3e0e73c8b8eacadc73bdbe732523185dd64b51bdd3e907ae13ef036215201ab5e658f4dbec32b",
+    "serial_number": 5,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04efe42aaad46af1d4f5cb34b55e31b30e2e706c2334dfe8e8e1ba9ebd466d6832f7594b0e84413c786f42c40e732992ff53b22a141784c09c35a8ef202045692f",
+    "serial_number": 6,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04d4c0064042912db8e13db15aa20a81dd61d4ea59b073d520d2ff616b693243b6c6259feb2dc109177b49b592deea32698a5417ce63de66fdbc1d721deb59a193",
+    "serial_number": 7,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04fa63829610b98919d865186c13a991fb438e41d036fe1c802b0053cf5898de4aa4ca3818d4ea1be3b9a1cfb617ce4d8f87331904f860705ef10364120d7d8102",
+    "serial_number": 8,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04861fb36187d100fe17d3fee8199c1119289658e470b25c5e234f8df45752813e0cba705e401cdebb727cc256539b3d14482b9b804a4265f3229ad84fb46972ab",
+    "serial_number": 9,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0433e5bd84ad75171bec00d932fe3b7cf01ef0792962596908ea11f209fcc0c21b4c314eadea782fd8da44031438500582af82c3596ed90ca4b6912852fa21b8cd",
+    "serial_number": 10,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04eb2cd753c50b9eaa135faefc1f6142655f562651bcfbb8e05d44201509131125803aa429fe2624195fd1d9bd11d3d14d3b81f9f10637a0004568578db63e60ac",
+    "serial_number": 11,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04be989260a023641649606a86d0ce131e7644f7b6b2d537b236c41318f036719acd5695209e19d02fd7f88869b17d3f5b702de9d3f7b54a1cc973c39115f8395f",
+    "serial_number": 12,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04390891cb61c2459cdb4b236d14242f806b233935a7f4fcac85d30c4ba48c33b1eb51a766237e58e41956713ff3089b4e8a6d9f44dd230a045b569f767a72c58f",
+    "serial_number": 13,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04fc9ca10ecc72d61d9ac27e64aa30053e14151d33baa5ebf08f9c027c5c8714ad7ec5dbdc47c43fa1cb6e4072ed8ee2022cc65e74d29a355b5962128733f41f25",
+    "serial_number": 14,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0431d793bdb754333f7149833671e3d8fae4556968592d3e47697e15f404348cc65d40ff2e25de09b2529f040e78022b32b0c51937d10dc401ff3536bb8f870998",
+    "serial_number": 15,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "043bf42ed0bf742bb3b0d2ca76f3a051635af6d5f56b5263124f719a69f70f1af1badd538d9c408468d8f00d818524f5b6ae145fd12f33ee332f77cdf4eec6e734",
+    "serial_number": 16,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "044e465f1e33c7fede5b3ff5e3f0c601152823b18db4500573f6933d750c0420b0d6b26e7b9eddc1c41af99aa21be7216b3592b1bab1db97c9b90398d6ad65fec4",
+    "serial_number": 17,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04760b9b442bd6aad80473235d00afa2ff101bd6c3a95d71d7621c0f16cc01f1951f6edace4f3995cf7eafc64e80d1bd5ee34d73bbe29bba1ed07062d000313f83",
+    "serial_number": 18,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04b752d29d7a3c65937573941e7df0162d41f44b14ffd5727b7038be8da054ccf0566713714cd7c37d14fc39e02b035b3b1e951bbecdd352a03a01d45fa1b4015b",
+    "serial_number": 19,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "043e67c151156f56f0a9ca5a3944a80ca11558064a840f3306738aca42e7b7cdfcd7a7ba5b36c17d7ea518ca98895e03a8dead233ac65d4ebce34258884a315dab",
+    "serial_number": 20,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0444c3228f446c2e92fea5aa54786a710e78e1c56ebd39c95ed49463d5916ed9c8cd7d4eab1b89714516d2b89e3b741d53d11ed0bad8e270461945780bf4e84a72",
+    "serial_number": 21,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "040abb0951ecbe46be9f4b7004ae4fa753c94d93817e9149e9b55458703be082dfafb852d2c65aef1d9f7efac2097f2cd0fd9acced9844c20303ae8921d2df2603",
+    "serial_number": 22,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "043601756cd2ad8f92417a5f55100e662f91b62bbce810cd3933546c2d00580a04a0fe5f0b06e1e968e39a5bae730e16b98902213855a5b2f4fbc51cc0aa7e7293",
+    "serial_number": 23,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04b5d278bdc047925ce66c8380a3a0bc6ac7a1782076cab1d0765319115240830bfbed713bb3f61723d1525c4c69754f5024ed210bece5338bff42f0c6bd821d8c",
+    "serial_number": 24,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0433da092d01d8b1150300299c99b0da719aad2beb9b12ace56907be4f09f5b3334b917f7d4d8322fc52b46ac540fefea57654239097c40e9c4adb63d4515d6a97",
+    "serial_number": 25,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "044d1c9b3f354ca75aaa61fb667f592921aad8a171b26a73cd160767dc9e549a3b669a68b22978e87d913c9a4f1011377a7e384c78b2bee034421d9f63d9a3db27",
+    "serial_number": 26,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04aca6e14c9a4c065ae7d5be81692c8a06bd2fbc924c4d231b6741d984f35ed0a93b0acdea323ad6439fad230aac1ae24be2f7803c72599a39cf4bc706727353a9",
+    "serial_number": 27,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04010481e3472b77b9da4d651342317adbd3922479aaa42b6d830e5afa4378deb19efc9480266557612f44d6265f04336cecb62404264f256ad3a81ccd575c5708",
+    "serial_number": 28,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "045976101c4355b8bce2fec349f720f43c79de785d2922056b91baebb92ea28996c71d4f9a53ccb921ab7019564fdff7c487860406dcbd6008f0ad91a535f1a172",
+    "serial_number": 29,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04dd0022f472cd46582ecbe682a3526a2244c18dfbe3c50e93c515e0504818e9b628466c07737fcb10c8c318ba8460c67a6ef466a93e27d8e55ce19424505573cf",
+    "serial_number": 30,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04ec368d1ae3c0a00cbacceee78ac1a0fe84b106b40599400a3c29ac5f8849494c1fd58299e0a8f9d860ba0bb11571768b7ddb3a9e2d33f7c4ba7bd506cdc3ad02",
+    "serial_number": 31,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04856097f2142dcff6f14cfb3a97dad2339b1f2143f43a6ab7502f8d243101fe914871c2cf02acd3566e914970295ea56d8747256e1c91d6152b6f522533a42b0d",
+    "serial_number": 32,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0496e1b2cdea0d0d36617fec448da506cadd8eeb499f8ad41824e060148ec8a34f559ea6aa1141a4affdbba74a4135c8290e50fa0d05dde55bc8161130aa1d6e03",
+    "serial_number": 33,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04e0294dfba01e619ed52d6a33d5fc227674c63435ca8069dbd4d80cb29a88a074f866de4f3e1e532b36ca6b03ab9466e3f03bf46826e18a50903456a731c89d24",
+    "serial_number": 34,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "049d60e9acf3200ce48a31c9c00880f4211f9436298e91c5b7d1d20952ed0bb3bc16c01f2c0720e609c716dadcdb96237b5b30efe7e21c11fb20379fb190fbff04",
+    "serial_number": 35,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "044789484b15cdcec56eddc63f80940c48c579acdbb64ccfa6a93bdc4777b392d9f711ed40d1802fde5593d71dc2a7c330750cd72376ab33cb1ae8db0278460694",
+    "serial_number": 36,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0412573c1c29fa26986b4192fd0916a27f9d3352db1123ee694f82d3f91138810e10d318054a673c2b8b8c65d086fccf22a1ca072f3087c3f6da8472e9396b7e99",
+    "serial_number": 37,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04cfcdb99c8823607db62b076ca6fb834793fcfa9e9cd5e9b4f5900c5c3afae300a983919a03dc79574fdf8b0f6e73531472b2fe5e8f53456d0809280bae0a27a1",
+    "serial_number": 38,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0458703dad88805ede15004bc7211eee8c44a61e39f51555c9e5537dcfe4c605ff515df56ee873c77227cc8e8f17c3bb211b15b90eed81ef47ade447bb0030a134",
+    "serial_number": 39,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0469519e9d5592cd408c207f430ab6600ec07b2a42dd349d4d23b547d05e73f7375b3402ef136bcd4e9cc05623faeaed3cad03e8503d37c2bab4142aad544ae199",
+    "serial_number": 40,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "045b0cad6337481ea144ede7741155d73b4d5eb587edf5efd0937d747d85dc34bdbb76c89b9f2aecdf029c097086d12214f4a0dff11abac56d1262a54225c93c36",
+    "serial_number": 41,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04b26faa1abc2a28560594fb6c17a6c7f1a38b5c16dfa6d4b3eb1c25415d7426a7e6d2ae11c6e70c81598b62e46d762659a4af6b8f5ede7f307b12bbe25ff4dbee",
+    "serial_number": 42,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04c05e2e4ec8f1b9d5f5a848ba1b885b37bdf41fd09960f3a5fbaf2bbbc6ee2985e4c2ebc69c20e2222534653060d605f92bccd1d6ef27a0ef7f45d65afb442aeb",
+    "serial_number": 43,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04e6e101f4c987788ebf92e28342fc6d2598d8ab70a3ded7d095459ec0f3346fd40ff51376d84abfb56500d61e921c6cd5c11703fa80fb2099667a529698c34cb1",
+    "serial_number": 44,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "042a230fe709578660e3b315fde02c910f995d53b8e8106b7e7a91f47dd78b5687184f82590695b16240c1efb0f87addccf9cec6fda08d11a550c4051d9e0fb031",
+    "serial_number": 45,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04ca2111da2e71d69f9c355debcc87931ce822005d570756b910dd50128fdc65fcb79661e57ac356fb80e2b5434d462c8218feb22f074402bed229406e4bd44f41",
+    "serial_number": 46,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04c998d88cf5eb96f34695d1242333ee51bf80ec2650be7f503d6e6dbe3a2e0a78ea93d56e8852a78f18853d0bf2ba5b9d27d7639954f533be065df035f1c5586b",
+    "serial_number": 47,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "047a23fc7661c9d9351f0e4768e3a86c3d0d6de9e78391422a79df35c5fb0b72b84690aed19ac83c7c4e3254f1d32b7167180f51cb095e11bdd5bec10bae712edb",
+    "serial_number": 48,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0491582cd514b3bb374c903e20b291e56b2399d995bfe1f2c3883a6d8aa446965dec7f63b21adaeae7d30798870498eff066e4adde24f7774f169d10d99509e30b",
+    "serial_number": 49,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0478d9c22f4512818614b79fc5c3aeab7c6b52cb80d603e6464e9e6bd66c6283a796e74726177c280dc0b719f4b598f049f30d61a0d8bc89da32da17923c5c51fd",
+    "serial_number": 50,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04c13a594447d962e8eb8711aca405da7b6617a25da8fd1c933806ee3db2f6a5d7d308a6a1af2702292f65f6f2c66e5b5845fc660f22204050d253a133a03025a9",
+    "serial_number": 51,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04eeccf07c85b8870d4446a26cf2261a17e0c9a2547b2255e1000964a1591461509382599e13e6c4f2a97ff4f4e836eab6034a5b602a01130f6f4b0139eea843c8",
+    "serial_number": 52,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0480904c35ea70a0a271838af13fd52e1b169d5e72faa21101a43a7808dc6fcb3e761e1e9bdd48b1c2ecd0d3cd751061cade86cded460b1f347d064f32ec7c88ff",
+    "serial_number": 53,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "040dfe699843254f798886153ebab585bf8c4e7938cfe45a868e75c621091a7ecbc33639f5adb41c93a8dd21363d94a507f68432ab236c4aeb6be4c40fec8d558e",
+    "serial_number": 54,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04eb7db4a56ac7862a33c38613e386ce26962f46e27eb6327e80b5751126186c0cd07ab1beafc09a992857d6b3a891b95d9a5d90ac0aed95ef58bc75dd5adda706",
+    "serial_number": 55,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0449bcb677314def593630d9564fc4c7d03314dcfe3215034289f2cac192484cea55d63dd3475f446af6bb65e9a64d975e0f9313a047ab5cc23685b37049c7c011",
+    "serial_number": 56,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0442ff02e873ed1af3640f01d6298e01a56fb384813c747e712236242e639b16b8aa2426f24fe426c8bf198e15fc6e604f9f369385fcef2af5bdaee0a2b2f5e3aa",
+    "serial_number": 57,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "041d1c5d2500130d379b6cc8b72aeaf560c7d95f6d6ab0ca2809e6696f82336d4a0f9cc1938aa864b265be9cd7b4572fc4529fe4e549692b41b26d80cd876d00e2",
+    "serial_number": 58,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0495874752eab1d465dca5d2c64965fd951535f896454c0de9c40f0415524d4dbead99180cc837196eff5a16cca8f5d3258ff309d1819382176339809537a275a9",
+    "serial_number": 59,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04549665aaafdf1e85e677d896a973530f812fd36ce73a7040765fcd8ca4bad28314db3d5f7cbce9ca1a7c9c61b816fca77093faccb019ac64f61d242ad7d1234b",
+    "serial_number": 60,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0462dc98ff9751353f96ef7e304d1d6e5ce892615b61fc9eeb775bd5e6f43f81ed9ab784566d4027f1aadf6f9359b52014341e13044de792d5ec364b42767e5607",
+    "serial_number": 61,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04b78dda0acb03e9e7d4017ce2e8dbd25a5032ec99f8b7c834c64a61abf1ed23d7a215576eba7b10a27a88164a8b209084b27b2c8ddd908dadab3f53aae3844500",
+    "serial_number": 62,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04b21579186b416c098a78d30c07b89240aa96ea739daa29e77f1b16c189fe5d56dd47623ac540203316afb509e1e4ccf2d8915eff97d7b02731d8c64b7ffb076e",
+    "serial_number": 63,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04159b51fb017d4e38e3e93a47c0002d6803e99d3e4569e3606233e347a0a28e4d21f49e7d1a38436ebf1dbd2af2d8ff94ca309d1e83d4ea7b811e040797ab354b",
+    "serial_number": 64,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "043c03a6d0471622583009123ab0cf76936da727c11165ae9820de4b53861c051bfb2e89de3a5d86e357af4401d89dfe6ac72f665564720527198c68a0f6438060",
+    "serial_number": 65,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04712845acb4baf8d794def8017de26d9790b806c7715292dcac5d20dc3a77bc8addf35a5833a6edfbd886b8e132e8e263d4f648a2e98dcfeb2c158323790c2f0c",
+    "serial_number": 66,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04530d01fb58686f8b854795f35250d1f5a8f7c2bfb3f6d26bbd3fdf3d910c134f3ad003907a62638e660b56d3f1c4a2611d6f054543cf5b4c4be439123b5a4975",
+    "serial_number": 67,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "043fe2fb11353f09b0d0bf5a0accdc9accf6dc024810765de7f40591412c601874ec2f0e083fa8580cf37a2257489d31a8b5fb229705d5b1fbb9b0c5805e0513e3",
+    "serial_number": 68,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04031db78732755aaeec944dec2283c068921376269cc11bd713f1daf5b87e8a6f1a8e84b40b847254085c725c309fe5ba8a8266c3f8c14d6498f4171804b14c55",
+    "serial_number": 69,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "045614ea8df108063abcb5a92fc45c6fe8cfcb5555e225cc56b5808f9480c0197d198e2fc8136eb7aa3209da7f28fd54de57546e3f1b540481bdbe431fcf1b5133",
+    "serial_number": 70,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04fb5734d3c920b5b22a2f0768163a3b1bf3ae22cbc5506e29c8ceeaa3405de41fe5dc1ebeecf03c9d97e3b8ca64ee8ce8740ab90d3ce73adc9b4d028e580a1320",
+    "serial_number": 71,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0491fba4e1bf36a0b9a7f05de9122800a6552ec3ce0a74e2fadfc497f0878fd00141f9f2af639ef7d309dce0bbad94b0b488918ccb211867f2f445f9b69e364637",
+    "serial_number": 72,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "049ee552317571338b15d07cc1eb7f44ed7e97ed9c8da66099d3e2cd20cbf0ed74146b9fd3bf58285205412afa4b2790b70b0f2fde01123e4520232c4a51d09181",
+    "serial_number": 73,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04f1d3f05a2c0582d12a0138e33bf28451de7a633c76dad0ee845dc11c896383c67ed7e894bcfe23c10b5a6115f2809ef0ff87118eee5cf8165de187f89118997e",
+    "serial_number": 74,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0402c3a5bdf47b800d41159cac87eb756f11b6c1819077d2edcb2bba8856a00e9add532ce8c155b5657cd4e8c045ae644c5905e5dc8c62dfe7faeb6b12bfb2e5a8",
+    "serial_number": 75,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04271c1e76ced0677d0a294e1e7937b4f1b97e8b4e43fc96dcd3b4a25f460ad8c1ee9876b9ce4d77f14817dd6df318176fce162c5bfb405a448eb616893105631b",
+    "serial_number": 76,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0498b147620eb839b92b444367040e46d794553d9c091c346993b2636dc5e28822396a53760ab14b3f6ed3ae492e5f2ae83a8010247e385512efa01ab234b99ac1",
+    "serial_number": 77,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0406dbb6574f2c04a096367e10b981f0cde60d6ed0b8033a1a9e53179f9acbdbccdb7965265bc258be9e96188d662c3e7c0a1849b54f9ff714874ce1e9da166f58",
+    "serial_number": 78,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "048e208b6ba20c92cb757d210c5776d8f820dc756ed59af09380be1af0977a65c5718eec40a691d8a5fd62b1271ab906b1b2dc766c4a8d6a5ce75dba31b060254f",
+    "serial_number": 79,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04d81f5fd7d4963ad4e0b50141604a0165d06de499f4031e9ee15ddd315139d95d5279444631e21d3343a079b3dab0a6066aecf1909aaef9d46d66f12f9e4b3a7b",
+    "serial_number": 80,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04506e623f646ba0a2286113a7d5a08171a945057bf6059d9d29872a47001fed0dc63052540c4b87f550aca008336c1ff64c9aa8951dcf1118f0c70a1d985b2607",
+    "serial_number": 81,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0429dcab0910df5bf379212f65aa619b07ecd71eacde375e5c9a556542f90ab7bdf61b0e5f048df524d88ca02899eee096a0928e2a93a8e5259a5671ba1c8c7804",
+    "serial_number": 82,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "041a90de2c754d93e294e1d955fe745b0227464acdcdfefab2f7e65ac4b618739fa6de8ffa223d424600e0b10cf44a7df65adcf7b83711a35c45f6cf2babd641e6",
+    "serial_number": 83,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "043bff71482ab7e6c53a3ad4988ddebacad17ec9513cf1a5761b7e1d57999f4f691f36d6926a2d1a22818fcd0e14c91c3661899d17c0f6b7eae367b3802f42d3a9",
+    "serial_number": 84,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "047b31ad7606e2d70f7d6ec90417e8967d967a7b498ffe92f493c01072fdd302ec8fe9c67c963479e3f0a8a150052e2a9247c81305109f78ad44b65bb76f603d8f",
+    "serial_number": 85,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "048f95d28982630528b3a509b7325f7209666e95493eb6c257db15a738026f878bd2182ba7a619c6a9fa1b89fa6067eca37635e000fa5111fcb3247af7ec85492c",
+    "serial_number": 86,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0461033eedaf3d2e5c63fb514b77acc7c798e56a17ed3942eb2d4a5d0b8a23fb5474eaab14ef8711cd49fdea53eb3ebb6e87c5fe028c69886d4a3c65d097b434fe",
+    "serial_number": 87,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04e6d12d461ee1ee032c6a3e18801a1d69ec557b2fd0383b75166b16aa4275a74aa9ac8ce81504cea437afeaadbcaa21cc4f23c5c2013a86b57c451dc4f97c645c",
+    "serial_number": 88,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04b8a85cb2872367ebbe05d4c28a102fbc3ac7064dd123f449d1791da35d8fb7533b85981167e9fe6e72fb6f134555efb96c8fcd8d1ffa527e0ad67f7c1006de4d",
+    "serial_number": 89,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0432363d764dd786477c0a665c4a11d37b910c09a1b314359f46272e89d7093dc700a19378e10dbb7fe4ab5e9fcf7d83f59ed30ed3aa13fb22a52f95718410b361",
+    "serial_number": 90,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04b60b8e8927b79445e3435bfc500be70960cc38345338bf99a96222e8864181f901dab22cef6b97c10a1724dab26c57d7647549ce0517a6413a1cabf66a294323",
+    "serial_number": 91,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "045c9f554c537214c6f1542cec2a9249b4e20df93992e681f7461331239c12c5f08c6f8326f856d8f70bfc88ae270406890b10d60e1a1d069b4148fdbf8f2bb6f2",
+    "serial_number": 92,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04d6650fc7c4239d1a781bc33f879cd122c419c470a0c6a4241c241c8b71df4b2d49bdd12a48bb81411f0c82baff48b65ae5f7fe80098e6d22409dd9d92838a43b",
+    "serial_number": 93,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04da98bbba32e06e9269a65103643174199525f67ecbccfe0fcbac4471da942523bb75e2fa9b05c0fed4515bda733029ea8234cd66e14dcbbdb89ed8562b164577",
+    "serial_number": 94,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04a08768acc7a0d1603e1ed032c99ccb70d475a722518edb414b553001538e173106c9a0da4fe33dd0304553e3b9114b3c5f613d465451cdfa5c3b0c6c331583fa",
+    "serial_number": 95,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04f5f426c0070634b6c78bde65d40546b317266d5408e2ad62e4da8d4e770f220bff2ac5f04503756e61d09a93c3e45268341bb96451859eba4f5b3dd7a9fcbe7b",
+    "serial_number": 96,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04ccab899556899dc2a33875a6aba7d598e22ae597a96b8d82ffc6f344df67c97d73f5ab45ef4cdc711d341a9be43105c9b7a92f2643e0b083ff9776d57a334346",
+    "serial_number": 97,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0455b3d7fa3a91c1360ce1a05e5b1ee5b17910beb58bc14f81fdb8e0bc3e753661e7bb9834d297208ed4d0ae1b44fd4efecdaee193c3d9cbd3f65852b906e90137",
+    "serial_number": 98,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04feb4a13003a8329b821ba505c6f7ce6fe62182d8080339cc7df3fea8ad81017b709862626e57dce0a72770db8c71d1e4bbd46f20f564937892630ed289544b91",
+    "serial_number": 99,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0404691637f474f56d26c1b2e926274030f430a3a665bf7880d8d5f3da18abc90d8dc593590836410957754866be56190fd8f02a2b00c8a9d58e90799f8e24b963",
+    "serial_number": 100,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0483f9d61d9076c6283808229a983b7484c50d98c63cb645a9ffe38a5b032abc52b209b132b0639a21b698c7f7f2f9d818699a412a30e3784b57f0502f4fc3c816",
+    "serial_number": 101,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04bcfe31b048bebf9888fdfb553e0bbabae718e357ad64db6c461732641e7d755139dec2de4702287f4a9ee6a04c9ecf703296db68cc6afdd1c29ac18187f89934",
+    "serial_number": 102,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04b9e3d4c1faa0e394b1c4914aecae40a64c1b2a10ba00eae1062c3c558d822f80117ef9f8064839f4d94664443e27327a30d2520c923910b78970438f1f9c5cbf",
+    "serial_number": 103,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04300410b94b8cc7035bf5e7760d45eae8e9436996f438e1ee5476f9b02dcab5a9bdb5649601588d3f42b0658ccef5d647d9580633ee27a43582a54b6574b3b37c",
+    "serial_number": 104,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "044d779dee105c5d632649af3645c83703b198e28c521bf6f51d1f7e83e36e2e0e95a0055ebed728441b268f667d9463a6612406f8d1d8bfe7433771cb044d2b55",
+    "serial_number": 105,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "048697a8ed09bfabd408272e6259ad85c863082be0c08af939d97f2134bb49fb9b84afaf82666a2474d5b0da88c0d4664303e0aa58cbcf183f4f7b4a65773e1e03",
+    "serial_number": 106,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04ac1365e19b83e0e96f914dd66e88fc42c3c9829c78e91b59bf45ec312ba182b65df0d2fe64f2164aef3e0b159fda7088fb423f79afaac29b94aedd3730f9cce0",
+    "serial_number": 107,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0472f7536c38097265b1368f2d118fe7c9fb205b0adbd8b9c1c06cbe0b5965ec49f79258e225cdaae27c80b0e3660c645650671962a1b941c6ae9d173b03595ece",
+    "serial_number": 108,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04d32839dcc76423979c631ca3a6eca066eecbce643f4cda0e7373dfe3f599084c074f2d48afde4b5f907ba9771de658752240826f63e2a50ec046c3c630afb1b0",
+    "serial_number": 109,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0407107c25ba2105f6f2684f0a583ab8f4c29d043fac0d43a3c32ebf68cb270bdef0f9d3be67ce3f171119c89a79bc54ac4c411df8cd8d0042076ea0a99b02677c",
+    "serial_number": 110,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "049c56b391f55d12343cf16fdbca618510969534cbb03a4dff09505c0a97c020047f642776c70585b0527697300e8e053111052c9a9775cee700f9890ef154f14f",
+    "serial_number": 111,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "047e05b6e70e9913ced5f6831ab7c3ab6738cb6bcaef2b5e82ef8ad4651cc278a8a0d7ac129ad268e568ecadf4a5ff9bcb1c32f2856f0f400f57accea21a3668e7",
+    "serial_number": 112,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04b8e0e506619d256ae6470d7038b757b14d2d7d6498b8a879b4e0ffde8d28eeb3f157d39697d44389ead7211ead896c8ccdc67815ca6e88fc92d428459c8a62bf",
+    "serial_number": 113,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04c79cdb729eea72029a7023f51ae860ddcdec4a5c1b13525635935bc91be4fd35ec9599619a3cfd5e371ce2d618335654ca455fe9063340cd1622c4a6b247a1cb",
+    "serial_number": 114,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "042993166789fab26189ea46bb65b8dd3712c7347edfac9ebcae94069ad9c7a871f019c9f1eba12a8bf9b80ef6fef4494d5c62aebbcaf4b85343c225781fd31834",
+    "serial_number": 115,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0421422573bf9da4afbde8629ef9e5d9e9cf0eb38a5a2f0f8d9e96db9c14551386d649abc8c3619ebcbeeff5ec8cdf24ff8d41ec00fbb0686e2378d9b9b44ade35",
+    "serial_number": 116,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0474fa7e270bf94e2763039924efc026ba40e1ea87be9ad16180f0bfded9f42d2a12f5e593c26b2d0ed26dacb4283525983f0ad89370549dc785853f6857cc38ed",
+    "serial_number": 117,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0433a2b48a630baff7f22831ba53cd51f3c907c9586ab45e84f72998929600b99de4163251304f8fa1f680427bdb1d75476e5a1538c8e3771ae7f708a041835863",
+    "serial_number": 118,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04e97a91c316ff6e70f3de773cccc14d44c0384d870d89d3348e1bcca558c17e40284393271d2ed7bde0fa5c2a7950a7c017f30c0d89f98b13b6c478f5a29355c9",
+    "serial_number": 119,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "040ce170e682aac19ae24a8e424f48f41b0c040736b1f2409004b1bb2cb1da252f631e342b2556daa7e907e1d0ab60b90af3a83d1c3009a82763f22aa3156204c7",
+    "serial_number": 120,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "045e361d2df1bc32412cc503c8b6e15b29e87495818e0a3baac7f3e895793dfb43fc1b461235c9f00ababb93da4a6bdff9e6c9454893e0cb7b977826b1bbc02081",
+    "serial_number": 121,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04f73f791e237f7720d02c64d8db461533e7fe630859f62d26be24ca8519480b7269a0f2c8f334624d324d073282d7ebeeaa8a188ad13457154c522e473e2565a7",
+    "serial_number": 122,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04b362a3eeb3f18c01d6175c77bce978ff2efcff53c9b90968e8a04f37fa667cde14709e9c99a3fe0c5d368ebdbce19c851fc41fa8da29a29e0844716966966610",
+    "serial_number": 123,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "047391513a8075845bcd911ed304f8b0283f853eda0b754650e37648627dc5b8ac1f2aa93d0fcfe8017158c691a04ef0f47a056e5a4b27fa121203281a58f83be2",
+    "serial_number": 124,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0445584433a56019a2bd62e5c79c767895ca35968c7f2414f4b3921d20050456f95b77ee80b6240e9dab6d126dd2e91259624c56993e6882510ab70995c0030e63",
+    "serial_number": 125,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0445c171ce234dc0100f49fe269682dff632b8ed4a5bacbbfe09431c40d5604e47e778b3ef93e19d50a0170698feeb61b8b50b9ed2599e2a063810b15836b222fe",
+    "serial_number": 126,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04c9f37b359f4c05e99f838ff64db10c565a5cef779deb79b90617637f9f07ca195066401122fcebd43dd83faaedf608c2b9306d218ac8ee107436041a5dfe38f0",
+    "serial_number": 127,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04f215fa7f7513806999ad1e1303692f70fa5d65caabac76783aeb0c98ed4a4f4f707247d7e191412880642c7e53a7284f1a24e46b61cc60a1383a4cf87176b06e",
+    "serial_number": 128,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0488cbae17a6692d86ea64cdc6be91687dd344bd53aa53ce7f3cd05d8dca832dbb95e9dd8df008675a7d60f71833f7e9503bab0dce1da17a286e42945e960f5b52",
+    "serial_number": 129,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04f25116d5d29be4485191167208b9c4c9545618122d9fa67eeb9e3151a9cb4d4f8e489f4846851059a6c9b5b016a23471cb6c476973de7e05ad670fe4402543a2",
+    "serial_number": 130,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0479ffd9900757e6e61901694e7845071965384f09fb8fd56525cc283a3b45f6f5d116b4db19dac7f8ccc199bedfd75143347387d890ce3adc488025974a7aeda0",
+    "serial_number": 131,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "049e6f03a7886c5a1a2714078dd51b0e14dbf802d233d8fd0e0ab8c265af60f960ccaccc9df071fe299f43ece6d26a4e953c6f4304c17b3adc91ef958464b03c0c",
+    "serial_number": 132,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04edf351abca948d65a3773cffd74d910dca5b900fbd3c6b91a9e38d499676488709beb9696ec7374c359fa9cef6477b817a309adc5416e97c809a7fe2bc89463c",
+    "serial_number": 133,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "048a83e6e4b5277e98763b0b34c4ff347bce8cf86e75f0e23f353d2866cef6492b60aa842c35a4531d2c232864910bcb286414e192eb1c53f48be79574d8e580bc",
+    "serial_number": 134,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "043ee1be0acba959d34e37bd1076f80a2bd18f5b49c1931db8abe185c6290fef1225395041c2e682952180ba6c4fde3aeefe1637df956e7623d9cff2e2b1f29908",
+    "serial_number": 135,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "042a535ddb1a4161638f043b8b43f0d529a03304621fbfaa7bcac75fad1f20b41ee711f38f0e04deff01ae77505931ff1e046d91ef83dacc9e16e21900a8d17840",
+    "serial_number": 136,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04a75637449a35affb3501e838777de8c12b1bc40cff468cad3830109c6376879ef0b3994790d80de8aaec86db5f1e5c08c9e935f723a1c65e587bba795313836d",
+    "serial_number": 137,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "043ccb12a673361eb28116465fde99de8cfeceb24c8f269cc130fc139e26a1d9fe7189d2db0fe24499ad5e1ce0af04eece7f179558bd17fd3e18d825e1508c2b4b",
+    "serial_number": 138,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0491f6aacaa92b71b918b33eea3f467f0fb54c9654398624ec5488902372cd51cf3bad0b8553f3f16971c34136be421349a325c2fefd551af0945de90f843afa72",
+    "serial_number": 139,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0493fa17e9b6cb8b677d171b41e64fb4c42755be1c03c324ff1672a51617efcc3b754d8398e3fbad38e6db76bae2a7247a0e2ff6c4e8ea0a7239f9d9f18076ad9a",
+    "serial_number": 140,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04494e7bb207e97ce2b6b3c03ac2520400b0d1f36215f0b6ff19d99386c4563077cb2b4a2fcbf8d4c11b4340f0c3bbdd56851d8d41f298fa0b26b97ed13f38569c",
+    "serial_number": 141,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "042283775d17e8b9e441008166453a76ab6ee919ea0d53afb5062c5413d0f21939d630c3c6e10139c81bf9fe3fdb0d4b77f00320771ad4f096225ca7f18aa9aadd",
+    "serial_number": 142,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "048aaaff8ce005a61cd2c8f3d8ec34e000825f905c8d563b01319adfe3456cc2192244883ea9eb101e18eada8360683e2b09f2e3fdb50c92265164f458c9e0e18d",
+    "serial_number": 143,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04256a7c0655c46c3322c8aca5ba56ffe042f74284a96d22820dee8236ff39f227c1e9e079d19a8228198c126776fc1740c9840b68ab6bd34b28e92ed3ff78f34b",
+    "serial_number": 144,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04c8e2b5ac1ecc843af7997ab334a83f29cfb0393a93a1dbdcb095781a8b8e62703a0edde25576bb5bafc3618745aa1d5622fb29bebbc26fba5182b65794c1047c",
+    "serial_number": 145,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04da679b72f937f08e99b9a880ff5ae867d2d3a6a51d58b802a80a92d37705410b05a31ed0419916150492633a7437730c7b0a53300b6ff91d352b9df3e43ac57e",
+    "serial_number": 146,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0431a2446236b8727de567b67308296d970ae23eb7b22815ba3bee97debfb84cacd1020635f81640046a4a475b7a58d3670effee4c2aa348909dc7913ad1211492",
+    "serial_number": 147,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04c47e336d39f085e73bd410a4ca1fd6a9f442c49581ec0a54ca09ffcd829fda6b3313e209571f03a817ca3fdc1cea7c83e8a25b6291986639a7b05970fbd53124",
+    "serial_number": 148,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04013bc6810f62365f07427dd82ecfaafada3685efd41882267a296a2043229bfa7bc0c786fd74e2244aef58130db89afa65adcb9128f45bacb87c693e4480eaaf",
+    "serial_number": 149,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04323f018178a50af5744f2f2aac4f065f73dfb2543b187ff3568c3447f14cb9e532fb870e9bf507e62a15ae882c52c3077f5693489c1db3a87533220dbd5d7d6d",
+    "serial_number": 150,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04044505fd9ef1ad5f2b253bfe9b88d9237a0c6caf322fa52c86bc0f97d53fe5b3b34c1be415600820aeedd7934e58ec8e8077163830bf46745e4c76ebb9158116",
+    "serial_number": 151,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0448e6e541a2494fd8dbd157162801c3de656f94255b4cb26927e2b8dc0ab78d545d5a2ea7cf7879d08bb0f0f53a403b62060af30e0aae3687df1a8e124e346e8e",
+    "serial_number": 152,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0441cc06092fcd2d0f885c30a17dbe236e93d2da341e95b2654ec50e10b160d95bc3b4d60ff35d9beeb0a5d3288d471721166f2573e0049dc48d07fcb9497a2f54",
+    "serial_number": 153,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04de943fd0bb7c0a090ffaf52b6e1fe4bdd6214734ee3a929882f3237d99efd2c57a26319ee3551453f7623b52fe4352c9d9188ee8285078618bb2c75c476ca6d9",
+    "serial_number": 154,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04cfa8ce3a0a5ec09b58a18b68865ce78f67bbea24362abeed3733be43d36b6dabedea055ecea201f875e06cb91e7e680144775a33a255ffcd7ccf1d074893bbc7",
+    "serial_number": 155,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04332ad4c58434758973403e0bd1d27eb4fec51607dabb862f7ebeb0e6ff7cbb58ce9694b03e83efd9f6cc27fa2d34b94cde18af06b39af91561d54573ca023a9c",
+    "serial_number": 156,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "044346f200fd43a0b36d0ad08416fa5bcedd3ff18ccf42fa91aca43e9f088bc41951ef4971c019ebbc4d837f122230c8d7934597a1df200734374a6a9955058096",
+    "serial_number": 157,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "049494ae8d189399e6dae9e9b23349af27b55a2467f84099da76359d97cee8f60008067a0d16a72e063f8af274ef647f0d449c4bc715450c015ebd61c10a6f6580",
+    "serial_number": 158,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "047a039ec0e029b934c822f792fdd08f7f238f30a355e1e219bf7dd116f6832263e1292fad11cf04972491bbbbd8e46e31a3a81add45bb39065179f23106b7299c",
+    "serial_number": 159,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0430e42b7446adc350dbdf177da72958d93c320403b30fca59f93a97367bf896a72359ee598078709015bcd7bb0b1be64c5be3c32a2041190e81f73b724c6ecdfb",
+    "serial_number": 160,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "044dfeec3aaa0060a065d3d1560b69b77104582d6e4acbd030700714c4038710e276e5a28b8d9b4a4c43046026414c05d2b2375598291b45cdbd6d3c2fc1627c7a",
+    "serial_number": 161,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "048d4e0cad2d776656b839951600200a89e76b4ba1c2ceb5428bf61ecbe0cfa88aa4e0213ce900bb19c5f3c104cb50d1ac24fef05140385c9d72cbd70884c8b74e",
+    "serial_number": 162,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04a439729674b079611e15f0ff89f2555d0a464f77bbe37505ea8be6f32c137ed78f73b6a6c039abba9387a1df0618c3d6d4c5ead4f43bff5e4f281c558b4dbb81",
+    "serial_number": 163,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04db30e66772cf4a897e6c43d86b0c56e62face850e9e9b339fc83ebf441829adb77179c7c54a999380ff509e737b63e33434c9af13d117b36ed9a655b2b688f50",
+    "serial_number": 164,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04b9f6c85a28c132bcdbb4126acfec05b139a67b2b0356d03aa7973f4ddbe0a1c4536513f8a2cad263186e92d070feb0bdaac2c33831a1995d31e32337f3e014ee",
+    "serial_number": 165,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "040c114b9f1dc23ede03f59da0d1590a105f6d10fc25af9bde27164436ae5bd76150d7833719061dd62da75fe46cb41a52dbbdb331bfb5a0f8708aaf27c6f1f332",
+    "serial_number": 166,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04a76bad7ba6403793faab86f28f8160b6187f6042821ddf21aba02cd8cf14a453d4adb5bbd0f054afed72db3ff36fd26eac3d81cc7048075cc81c09628371a967",
+    "serial_number": 167,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0476007ee812e8af6dc3e1baa4fad07a15e8608e6324e81ecd8a8946eb1612221e7593ac111cb95732355d2d8b489eed07271ba29fbcf05261d7a62379a1453e7f",
+    "serial_number": 168,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "041deb84942373a1ae5a9fd6d7503f77e7168b02e6e08b21ef189fa1c6efc23342bcff2b468ed1991c7226417c2f6212fec7055b23bf27df6bb3cf5cffe0f27f90",
+    "serial_number": 169,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "043fcd1ba6590ceb2ec4f4e88fdcd3f9c31443965a9cbd07a08b27b378e471bccc12ad444db0cd5187dc15af5b1196fae080b8e7cfe2943110fe9255c5369b8cf1",
+    "serial_number": 170,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04be09b5616fad8c595fe798b4b0bcb79f4be4f1b46b1b114a110224c0fbe02cfbd868553ac9437e8625378e4b62e773ba081e806b6730d7806c27185e3199a001",
+    "serial_number": 171,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0478e275903e5581eaaae2f6b7524967ee76b35fad8d075b41362aaac9e2995b37da6d03168400f99ef8dbedc2b6528c5aab5677370fbbaff96c5e5442e2068b23",
+    "serial_number": 172,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04ff72e3076863e08460a95cccc0d3aff60e9eef56f596b20da4926abc3e1bd5c819d472aba50b1206ad58e986f4b41074ea00831964f0d4a66685f4edbcc7242b",
+    "serial_number": 173,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0471126c817128cee36705a18c9d9c20813bffec05c6d8df52ef442d6c9d2fd5f42539e05fa77e6d72cdfbd688aa8d07a65bdeca93a71da4eec566938c6b49c6f4",
+    "serial_number": 174,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0449258f72de853205224e469fc246f3e5124ee0f30336fd1d16ae20e7b231ad05561d2a0d64743e60688291c03fbb7dd1c96d74c1e1c0da291cff2acc53ac864c",
+    "serial_number": 175,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04166f9626e1ed5ae1758c34949e2948d007f6e7f4d9d0d7c31b9a96d2243858a1a6ba3835a4fa7fe4e29610136109710e77c552dd1ab185fac65aafc56aab6165",
+    "serial_number": 176,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04b57a4cd9d55d2a23ebe3a8574c5acdc9ab4ba48835b180a4b708289228c19e5d7430053bc23c4bdaf8ec84732408eb38203c75b32876da27f16b9d45d63030c2",
+    "serial_number": 177,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04716830e0d4384660fc992620ea38ddaf211d9e4c55aa64e2f4d93e8db9c355db050bf3aa28b88abe813580c037c17b8402ecfdafa77f3eec0ab82e39e1eb6d79",
+    "serial_number": 178,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04e5165a86bc215675d769eb2fd8030d28d12c51b3954169ebc27aff17f84e72d65a7add6584138540383436239c4addd6c8e9373baca21bf67f3297e58d66b380",
+    "serial_number": 179,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0439839d6f6b83c52c104d7f119cf80f86b2e7fe64e50535e5d5aa6019d1048b3bcf229a1b894cb0f675d215174fd6b31b8262ae41d34c67891029f1c6bfbc97cb",
+    "serial_number": 180,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04458f9c08bef9490b77b276e82ec73a4d70c91638a67ea433b30cb6410ae0a193597c65e79e7646b13473f77e189235dfd7430a16bdfb18c0e8d9c2effea8fc6f",
+    "serial_number": 181,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "040ed0f6561027c9b9e85e458ca83af497bac1bb8af9675db5fa75edfe444acdf97b8202af27f58ab040da0cb95ec0dab7228b10771c4a3e65afcabfda015eb132",
+    "serial_number": 182,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0481d900c93897247d439b216b2d25aa75233b24ec9ccdaed079d32802358176638a4dfc7ddcbc71a4ef6e3db37dab9d5557f7e44ae659eea6f1a8ba2aa19b4e9a",
+    "serial_number": 183,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04eaa53aa0881000bcda4c29f2ad6518c0512f449fdff9484a665b94c976b1cc4f9ae2d1ab533c1f2e9c9f3eee47471cbca9047ffd986e85e060f867508c4ad143",
+    "serial_number": 184,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04a90e2789484f40fef39b88ab8a38b750f8657bb830c48a428def73a6f743f00ba81a6ec910fea0acf3d759fb5b6d3ec4652fb811bcaf7f79b522d7e78d6cbff1",
+    "serial_number": 185,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04ff7ac619303cb5f75565179b71f47c83c8f75556181efd221ebaf932b9583fe9f7df745726ef303f2f11ab035e1aa256cac6acb69cc06e95fec6497693df2228",
+    "serial_number": 186,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04f91a330e221313a1215b2fc9589f14ee4b308ef5fe06018ab3208d619f8a443ff7e9618ce325aef8356cf9f24d01110053da710e4766cca9ee274984bda5f1a1",
+    "serial_number": 187,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "049188a7e99475bd6372f475acda81f797809751f7fb862168cbaeb153663f7e64034c1271ced4442dc7482983ee481516e1d97630fef05dfd1121ace8881ca7fa",
+    "serial_number": 188,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0464565183ade74c50fd7fdc72c683b7261f751cd920543182e9dfa5ba3e410e2ae9c3dd231d81ec004aab5953d40e48062c73c0846d2b65bc7e8248340dede47d",
+    "serial_number": 189,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04c0c4a805fb2e5c2af146534632c1cc359469821601ed2281f2619782cd02267731c59f1c2ef708cb01b2eec590b951ed2d69bb6d64095797755d2cad189c989d",
+    "serial_number": 190,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04e94271c7007a8639084784201531282abcc7f40322ba257bc93e9ca8421c70f9ffc1d7ed70925087a31662ab07fb263bb8ba1b67bff57662410206084d645629",
+    "serial_number": 191,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04b1bb1fd668a68f1a890a12844f16a9bb0131786b89a54aa0b94c77d8d830e3c7fcc0d984d876dbdc96634f900e5e88dde8cc10fa0fb8bfeec9f3243bf1dbe9c6",
+    "serial_number": 192,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04387cfea994abc26300815998c1da487cb3cf0532e0c25aba606ea4640f09bef3d26b71369b346873204a3e2ab30da424320c0b4092864de9ed977440d57f2b68",
+    "serial_number": 193,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "042b6d9850c8733ca00e1a363f1f075c4f249a60ccea7bf685496ce741c0f1bc1110db4f4e77affc696d5b27193d98be1c38b11b070b9724814e8495ffc4d59d3b",
+    "serial_number": 194,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "046e83a96561d007700ed423a26153d0e883c92803a1553a2cf7f2ad5244fba11008ed43e53da3c2ce19662ac072e26a28ae0e3684d1b3003e5c654bcf7c78900e",
+    "serial_number": 195,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "044561076a28f6931cde7db5e2611c6cb5d2f88d580fdd7254b3f233877a8220687970dc95f5bf222b3f593ec1aecc17b5efee3b82480d25d022ea0d8b97cdc90b",
+    "serial_number": 196,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0455c2c89e05e03162bf16017ca57d71bc948237cd1c1c16a476e714298d8d42d72806a4acef0dc2e6eaf4521e50d7935a9f4e208593eca9a65c01e084098b8838",
+    "serial_number": 197,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04039a11818250bb04250c5a0320a94f34b2eeb3fbbf7b1a3158a339fdd4279ed970b8ae8fb2870c9816f7612549c6f8d588d12bf74ff8dd4c10b70f2ffcbfedb7",
+    "serial_number": 198,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0413bacaf4456b2bb93fc1737b2aebd3a30ae3a42f6c7b39d8d3c094c78f92ee45f024c2c23ff1370a1e5aef684e3312c1e758571cd1bbe4599518d4e0b0a1cac1",
+    "serial_number": 199,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04d0bcb31897f1857f4530123254cbbc1d883e91b42fe351454f3ef81c8d219e54eb06ddae03d4c3419f7697ace2282c760f71a5ae38696bf5b4ac57940578d1f6",
+    "serial_number": 200,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04e4454ee4dbe15855b0f7c34104cc5c95dc5a8f7b80035a26c131f4983f01b7fbb1fd62009e4eb6c03c960f48eac8390e193cbbbbaac1496d258b53dac5fb809e",
+    "serial_number": 201,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04957413e1408b18870c4cb7890938facbcb8973a1dcdd439b30ed1e0a15775381ca15de44816c8cb39903fa09da33a0f0fea78a41356e8db67ef490e3583ed963",
+    "serial_number": 202,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04736c833a25486bd185a23105b3df06f1f59b76b02a14a9fa8330d64f90e7f68960dd9dd000e3ac83626dbf064f6a2d042015e13a84c30660dd5845436438b10f",
+    "serial_number": 203,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04dc392c92fd31bf39386baa0e5971c299984a168bf9c12707ec86e0fddf52577d4988b9ef4eb8b31d782eb2cb87172b918cd41b4afc36c3d114c5051534fba862",
+    "serial_number": 204,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04c7f5b195dc3f38c4672bac3f5726267b3e8c4a56ea96f2792b342cae056f6b3d6886bf622a80d92d232612f69d65bb9195e98494641596db4025ad34d6695eda",
+    "serial_number": 205,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04a91eb22cf1b7cf53c35432f56f265e8762882ef79fd14d2cc9521dd8827f4084758392c0c2293d7b1c8e415484f7fac422312f799b2ef85df85c0a927d46b9e5",
+    "serial_number": 206,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "044c46d34d1d6a60c297c233080664b7ef4aef5a72f6b87ec6a0e38aa75b9d251637dc3243e00fec7cd4d432f35fd0b5424b76c2fe3d4fc197cfc678106d5f93c7",
+    "serial_number": 207,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "043bbd8add0851098ba832328c57135ae734e10a4653ffa4556ae5f56f5805ac9f9bb70e5f28c6ce00ad6f30c5688871795c19ebda7266cee28edb075deba7f838",
+    "serial_number": 208,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04d516560bc1f01c1f57da1056bcc3c47699355c356a5037522b267d59f32450ed9aba072c9d96beb721d4ab1f6911c04ef891046bfd8443d0c14f93128d8a738b",
+    "serial_number": 209,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04f123c72a6d5b7a951c9bcef4170ad375df8b3130b80937d5b5a509ce09477e052ada156f0a474edb26ac683a186260aae3b9144e8236b49a2cd6968684fdc9ad",
+    "serial_number": 210,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04ae63ce62caf22045a7ea9a513f8c24bde2a42e51b32837cb71cac463f7121495bc52eee913adfb5c72a21366940aaf054387822aadd8fb6ca1fd537df560fd06",
+    "serial_number": 211,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04f2d93026d41992c90ba4452bc6c36e107a1b011ce15aa5a3d990ba5f0ba06a5744a4f2d63de8b7a3879b371401161cb1a600524ad5d6f10b8fe56dce35fcb8be",
+    "serial_number": 212,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04f402954ec8e492bf05e10e4e4d826c2cff61f6fba8e5ee3d8cf3b5344415e60eb96fbfc7fd243d6711d6726360073392c5243d2d427a5c96421f562fb596d64c",
+    "serial_number": 213,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04752d35dfa15c619556a47da6fe9fff38bcabe710c578b0453ede6e9196a982c6389e3f7677531ab2fdfd1122124fae4c5e86198ffc323cc57eda1963323189e5",
+    "serial_number": 214,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04414b3c128bd8e16f72db1ee5308a76c732b52cb4fc0f51c2e45b52161308d62b81948b762c0c9f8a3a277812f9afaafd19d3ca1e0be933ac7008882c2ffb2dc4",
+    "serial_number": 215,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0448048484720e3a7a243897964f05b4a2ea8461d340d3449337bb388b1b97727996e9d359844885837b09a3ec1fcaa31cad1f12bbada42122af0298eb731d1ea4",
+    "serial_number": 216,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04c177c98bdd22bcd1211b2f2f7e08a70906227a5663c556eb428d6353f476297c78a8a253aad7ee915dc66884fb4504a4cdd0e01e1400bd9ce6228e63c852c1bd",
+    "serial_number": 217,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04524afbd626a29c7075a3d3e8e71b528f312c9376c57f997759706220c15de2fbed74843c1464b95e705c765e03b72fcdf61550eb0f232df9d757df6d09e1579a",
+    "serial_number": 218,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0422804f5a1dbd519c461a9a420b91a0ee0e0307ef1a7877780672c7d2c2dda5c343842975bc23ef31606eea657cbe3f99bbe01dbfd5bbecc5396ad2d436d4b524",
+    "serial_number": 219,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "040ef275f7ef284159035c8215b8a0e5eb478f5470ab93e44646f6119a5557f19532ff349ac0302ac0b1a70e470e9425c57f4625e299a692f3a81a3c6fa911d4b8",
+    "serial_number": 220,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "045281406d9d2c401f408abe8928d96df05e966472e7ce1623b2da3d035dd8633922d032821851b1d240e94d36525b65dee635820b5abca320364ef770581c3826",
+    "serial_number": 221,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "040cae6b7e5f78fd3f1b4798c268656e2f8ac8c7f2abd654202896bc8fb3a4c66c7b212dc0285c34d1b72f32c777423a270dc762dd51d8179b56d6f999a67ada84",
+    "serial_number": 222,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0431444ffb070ecc886493b174a2de975d5a2603b0f9a0f51e17bbe67cf7df7b1fee7f7e67be583e7838eec011505829dad2d18e05c90a93a3bbbfdaedfd4ed693",
+    "serial_number": 223,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "041442d4835f0aa62766c31fb71ae1defd59906277f860b69cdccd66ea84ef05ae0f09dbcd09efca743b3e3102da73ff5c7aeff9e940790d21147748bbb6d04800",
+    "serial_number": 224,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0453bd0ea837edd993ff26dc895a5f681a090f3e052e299b20b008215ae5fe5723e3422ee132c94a1aa7c3e4ecb85a22cc37901f4c851dea030063bba207aef22d",
+    "serial_number": 225,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0499d6111fa58402acc27a7696a5b581d16d2dfe5216b37ad5379e900d499538b0e4adeb14d657487716bff7c0259fa4bcc82c4d2663d9acb1e7874766b3acf0df",
+    "serial_number": 226,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0470b2902b23951a89138a5417c01c57359a48921ab2075263cb599797bfdaabcdb34526be70733b9db5ede2bd0cfc6d34a07a84f2b8ee28256cdf2d9eb81c6119",
+    "serial_number": 227,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0411dc25dbe4fe351c75d5d85c6639ac3e90b6d201f713423d02e58f601bc0da9d20ea1c4a03015fd8481a627c16f670cd2a98ec6434951d408740d7f54d59945b",
+    "serial_number": 228,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04f305554161125ca340edc705e5171bbbefffd02bef593e657938a56d6a16bb198794c62797346e47e65217a62b2588c2f7ff89836135095d7c23bbe2ea412e3f",
+    "serial_number": 229,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "047fffcda037c6d771b636f2d4cb4011336051f4608a8bd42f304f1b07a74c46b1217006017a11c09e38319a8fc10ecd0b0889417c554b270f4feefb8a8e408bf1",
+    "serial_number": 230,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "042ff6a7b0410875597db3af8d245e05e4bbffc2b00511734130b15d7f8e1de52e1ab006023730bd036e3e9564f6121fa3dc12e2d00b91689ef0814fa9f4561391",
+    "serial_number": 231,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "040978accd2ba56d6973a406c02428e5221ece1d984c808aa8b9131cbe409464fe7f474c0c4dc4601c3cf0cc2d014f52907a4f104671b1c59278b0fd6cea92d1fc",
+    "serial_number": 232,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0449075ae327a1e6e65a737dfe0d64c71ccea054156dcb2c1ef43f4c5775f0bcb010265365880ea149900d16b0e699e1f93555c93b18c21f7651c2bd32ae353582",
+    "serial_number": 233,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "043936df3d76ac1fe4e807814423fd3a082fc57bcf744abca37e6fcc3e38debf7152f2c41c75b9e59de0c9cbbab48e9c6b78855a059e25e4a2bfcb95c0463014b8",
+    "serial_number": 234,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04b3942959e77036552d96909fba60c16292caa453881de1d66ae9023f5fa17a5b630658d634a056b8e016bace92ceeeaa33a2b6dd5a71015c5413dc6ac254eb7b",
+    "serial_number": 235,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "049bba0c68367920320bb012935fd5e568ad1ada721a35b510bab68a675e3f4477e7d1639f1739f52dc5b775245fbc33388188bfbdfe58378c0a8e425e38c37ea3",
+    "serial_number": 236,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04b027e790546f5d55c827914494b0181f78c20285b00f7e58a8909da97eb91f6945a00a96d08ccee9428ca450035015379c1ce6980c0464d3aa84aa5a17bd7b19",
+    "serial_number": 237,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04a5a02914d9ba018edb897adf90b7e101c41be20f595e031eda1de830cea7a459bf67a6ea34b46c6f36864c6c4d3e1f6cb54d52a3520b6364a23369970e1330fb",
+    "serial_number": 238,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04e630ab66b549134e423c9323c6afb6bc2a3cb2d82424ce6eda8842e9a9dff61186f12304fbed65f9c0c13bd1fea742592bb388a11063362da1cd3c1de2f7d034",
+    "serial_number": 239,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04bf3ca198ef86dcb2feafc23d6b02cd638cc31ba85c9d803f69eb9a25407ce160a3b4e01382cdfd478f5ce7ecdf95ae2a5b7afa5f24fbfe8e6bb5ad2d464f3a91",
+    "serial_number": 240,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "043587b4d80f0cb29bec597639745dd313fa757b34da18f954d60fa39a3233807d66ae3adbf02985c86f36d64207883adc4f87d7e38926bf04e3f8eb70db685c92",
+    "serial_number": 241,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "047f1a39b856e48e2ab498b31773b6d4c803e14981045fdd63fb4a07ae712a8873d306a3d5fb08d28f24f3f544bf672f0d57c61c4776dbd0e84929216aec51c2a4",
+    "serial_number": 242,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04d48ccd7331769e7f03893213128e2974b2fe6b6ae6f4bb8dcb38e46de6d538b4bb08da2c687d737d42fd5040743a59462e1675ef8acbf3430d16c77e1c266800",
+    "serial_number": 243,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04f7432707fd04dea8f9091b65a6e72dc0d0a7b90bb102221383accded5fcba04c57ce01861c025b4935d86e377f4f4a210cbc51534b210e1445cf1cd0ddcaac76",
+    "serial_number": 244,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "047751766feec3625a3c8037720c45a6882269aa42cf162178b5f74695e5e3db9add1c93980bc1bb19a0d70242d7712196cf45baf6c1ce7714b0d8a58d6e7070e8",
+    "serial_number": 245,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04129cd70f28ab89fba050679bac26e6ebf4d7432e52f040ac9d957dc4ad390741328d1e20cff333d264ecb068bda368ea853c690eaf67d61c23f3aaffbbeb9bf2",
+    "serial_number": 246,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04506728077b28824e4fa618331bebe69341c772e1183bcb5eda79d765097d22468896ca667c06837e0ee170b6a4896fc6af5b230700e009a84bdf80fd6815a187",
+    "serial_number": 247,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "041b3cc78c8bf73a69758d1da745485b03a15c7b4473ec76f45bd417edcfa3b2c883b8b22bee7385e920b9445bb5a79c8a2853fdbe46d5b95b7ef7528ceed60e32",
+    "serial_number": 248,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "049ebbf92e39b1746ad2970b17b9c44647b371abecaf8051286f0cd1f97b100a604a699e8ab7c18cd312b32fbc4b23192eac09400a36b359b8350c498a5b0129ae",
+    "serial_number": 249,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "042490b0957d9da0304a3177cd042935d3dcf1c3857359d9dc780a3889b36dafd5775843da82f3b518997623f10bf6155a1933383e6b4736c930f6e4257071c08e",
+    "serial_number": 250,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "041a96a17101d0ca4970efa30b1bc61be88c88b517ea18c4c0a55bfc60e6f75eba6813df40e2411f861b30816d2304e4c001063fa49746fbec2758b67498bcf5bb",
+    "serial_number": 251,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "045f9125416b648b768160a809de31645b88b537d044bf37b956b90f6746e7159ba82b334dd500e3f7a24eaa9d19c450c17fe7fdb82f2f82a91a13723b2368b914",
+    "serial_number": 252,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04eb24a1f77cec9a6407bb1c4ab57aa1f880904e317ae300b4207810f839cd16c0e4e51175445e430982689d1eed8019f3c8519e78958bf47ab8eb77d497557575",
+    "serial_number": 253,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04c2ee3bdff9f79d14602b581ca0be4f9306d963df0bc71ef51a24d08cb79616dcadd6f60adba9d622a156ea02a873adcf69fd46c38df089228a5c23e8becc5394",
+    "serial_number": 254,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "049974baafaa075a8d6e03221317ac56828bb4e80b4dcb9f3a041cfb298a0fdb17ddc3823b057b98337533997bd19b0af743c33465f00bd79c4ea1390c211268a8",
+    "serial_number": 255,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04eeb2bde47fd8d9b1aaa568c2109db75b04e0831775518eb55201071c7bc84743b70ce2272b82a0e5081782ef7deaf2754ea833ca8ee148ca51479c5cefbdff38",
+    "serial_number": 256,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0441d4da735aa25cf939447e7f0badfeb61cb7097c86d4bd10ca78ce3d5ec210fe646d52a64d7b23da45be8f57284f16df4b2b7a0cf2578e0006471351218094c0",
+    "serial_number": 257,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04b647a389169b5904015c8f0ab97b34c0d01cdf2394853661087e0dbd8ee8df4e14b03e283af25fd57c53dc673fb514c4681041bf1457b04458c78293854b66a0",
+    "serial_number": 258,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "040344261241d05c12e9c4951847a4a472b216be56546b8dfae7d97dfa32c816dbe9776adc14435d3c76a918598fd02326df5a5905cf5580d7c38b506c5ec20f4f",
+    "serial_number": 259,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0433ccbcfe8a01d2f4062eca060707ab6f4c5e702cdb26a29e07d307b94d2c7851632f0574977d99bcb6424a937c91fed8485d68b016963ebe94bd39483042f3b7",
+    "serial_number": 260,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "043363a85765a64e032f5e04d76295c8ee4e772e8f38611c3e29a7af9de6692c600d59314295161d75f76071f305b7d67cbde8f813479534d0f48b097a03dc092e",
+    "serial_number": 261,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04027b828e5b275678d9637d70d5b021f2038956b3b8c603724c5bdd669264512aa8704186f013b5c792305917d7d6a92e0f00d30a5286034c18541832284860a0",
+    "serial_number": 262,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04c3512710b16cedce38539280aa74aedeb25f9595ed03e6919471094ec14f6ca77e33d6f31fa9f81f7bb4729c4fee25f4cd3f2c437c6f021cdcffd5cda23f5086",
+    "serial_number": 263,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04ef0ea29ee745ded5827149a8f877322d96846bab67f9bc39c751bebf7f5a9d27fe019a9b41660a228b877ab2fb2c51f60d8de87d51d9f5a87907e005de46aabc",
+    "serial_number": 264,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "046e5f3635184195fe1a571c4dc26daeff8343a3b7a00e333470195104754890d44ca38bd51831e132b86e8248ef1adc7a140a46ff607a129b647ef0af88d7d639",
+    "serial_number": 265,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04ea7cac20e25bc819da5804d7e60ef6b80ba127b5bdbceaba3137472ef108263f78573ab322fe4de224200c8beb53263c8d2c763ccab43a09231b86cb09c4685a",
+    "serial_number": 266,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "049d13d5c60ed61f9a5eea1f16fe70061a6f064ae049c7a0efe2be53280819f6f64216928caa8de07b323dd8e0ec3096f6454638934b6c4d6244d960fc1fea07b9",
+    "serial_number": 267,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04939a9be4d462c136fc81f7bb6c957e807490e72ebbfdaa2dabcd6ef7245e7ba83e06eba9cbf82609376d9fdd04ab9f1a72b4a2bdab542573075e86437b29ad33",
+    "serial_number": 268,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04367de7117ce3dedc19e293753e09a858123c1773fa61f11c1d55142fb1d95119146195337b6319533838a750ad01600a70244202c370f2e7edd4b0ba91ba3b2a",
+    "serial_number": 269,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "040294471ce6cd0f58638b8d45bded0619e58d6979fb97f6047911270192dee814cc493dc718aaec346fb5187866fbce8bd9a0adb220f855200128695583beff44",
+    "serial_number": 270,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "047c022a087b0e25309de1a52b9ff039c510209a6e628fe9e6da2e78f1eb2b1f41485d6ff12fe404ccc1f2614eb09cb61b9c7d768aa596805d9c1924a0dcfeacb5",
+    "serial_number": 271,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04cb890d7ef51c22c24651fbe33fad137dc1939a3f644b497a0b697fc93cd1d5e361ba2b06b52b5c4802d229da6e47452f9cc56620196cc4004900b934fd2d01ac",
+    "serial_number": 272,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0443e06ea9e2134a398856c8fc9879d1ae5d108414066343692163c94f131ee8c0e9b3bb0cbee18c6ee11c2c37a581a64d354de8263c159b848c3643cdb37ee02f",
+    "serial_number": 273,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "044a04f1e792b71c08b633704a60d4471a415428dfa6010bd7f33e5b6867411a5f66db3d7111925cd8ddf5d5f9f8e9097f62a3d8d904963faef035bd9a2aa96de9",
+    "serial_number": 274,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "047b6f60245e7081b38c9f5f315f5659671c6c8d1389342b113828b2ace7faca04bb5b71ab1d0fedaa9e98aaafdb22a22c34570ffc681d061b0eea5583683a4412",
+    "serial_number": 275,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04177a945694698316fbeded28a62de6314c999e8ffcee7f39d9494242dd692a7285f257ff6cfca5f4acd30d5fd2cbb0f7a7877c55c5f6d378a743b1c8e9bd5710",
+    "serial_number": 276,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "044a24a532078e4231d01695049f3799b8f8126fa2c12bb1609a0a02484c419055e93075d23d601a3e7ad5667de25eb7d331d07908b7c15123af2a46ba3bcc7588",
+    "serial_number": 277,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0471948093cf49f7bed731dfe59de6f268800ca26e1bed2fd9ccf35780a870fd8edc2f4ec369d6fbd7302c84cd557da5d744d46f4ed04e8cc9296d651d6946dfbd",
+    "serial_number": 278,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0479bd51b5fecae5e5a6a33ca3380f10499f20fe07c936940f2a69f92e5ae24e29c28d29ddc979706b7f55820aa696126314aa36157fd35efdb629aab99fb32ea0",
+    "serial_number": 279,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "045bf28a85abcd25837742094dc0fbde338d2f7bdb86bc53c4e075ef4196b7e12442138d2e8119299cc044a4542c981f10c05ccf03ed7ea1766d076a590e9b7d4f",
+    "serial_number": 280,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0470c040d7fe4fb304ef10871a45467ca1ade6f82e2e7461192f5cfaa14a539e5af9390703c6cbcfaa2ff47a38113103daae73f1241c223dbdaa472c21b7e62869",
+    "serial_number": 281,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "041b4c0ef290bffe58814604242aa4e56cf1598c20bd417543ab543264485944e33a278383c10cd30e35050694cfac75cf22bb31d36326815cd0afce88354199f0",
+    "serial_number": 282,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "043af80226832ea69cfbe48a40a3f5c1ba16f810c85bebd47ce44bb5da0765add99c47fb1a36fbb7888ceb4d5c705723182623d61eaacb2bf80dee82e6a24be51a",
+    "serial_number": 283,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0499c63fea1464883cc8c7c09dbd7c6d4d26c41ee5221a11b1e2442aee506158227be34b4ccf6a52849355e0d3bd3c4b7ced5ff9d3a1d90ab4b7161f7aaa8ff449",
+    "serial_number": 284,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04026e95c891e99a63bf703755f58259255ee496f597164f52e0776cb1522e01a86d28ff4f8350f51da32072b8bb4e044e2b0d0399078bfac6f2b2a9f0a18fe948",
+    "serial_number": 285,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0455aa0d556f7493afd24fb939a94b5d35739d6ec67e27a710152f03c286070434648b6c1eef3c14b775eef8bcefc090c8d3320ad47a488330aa96535f9ab5d323",
+    "serial_number": 286,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04d79ad556b57f15adab84ee2271311ae25c80068e0f711de090541ba4ebf8e969d59a2785e03ba5f50b12dce9e139336d4599ba8797c1a45251da31b960d7a149",
+    "serial_number": 287,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04ea25491c495c7d9422073bc02c3f3affe1079de3f419173915d8eea8142e130c2df796d9a887811ca6921f776dea8f601e3f1e1ee0ca9c4a6b4981a89456abcc",
+    "serial_number": 288,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0485893db88b8ffd91f0418157aeeb7ad472b4d945b8e54d8ccd15df65f9fd316c22ba2e49cbf3a10a3d6696e22e5478d48fce62197b8e932f2ed2dda8744740f7",
+    "serial_number": 289,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "041b5613a6cc09a0c91b8421e5c450ab14adcb30af125f366f7f986580c4179775a1992b044ff0bdf2be27e5b68a8de7096f2da12e6778838820b9a03914d65c92",
+    "serial_number": 290,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04e6d2568ba61adaf51cff07bb6c89dd08e68da9fd835e982ede262b060f9553827ce5991495a708ba65a88beb51f75da4cbb6ed6993da36f67f1e26898bb47275",
+    "serial_number": 291,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0493483e4b045cae3abf19f72e67e58f40cc71a9acb751ee75411e73c9be127e2cfd8f7b64778320c88041034c59809a468e4f995f82bdc8ad5f69c9818ffae1ab",
+    "serial_number": 292,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "046564989915c822e1b1a60e2e9c6b339a5526821d5b74e96f98cc2cb6a005ff162289e7a3952090cb5ba5ae9903cadca3589b00cea25c474bbe7111faf819df7a",
+    "serial_number": 293,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "043fba8e4aa43c3863cf54460645f80144290712da6d5331aec39d2bc7a2035f9638b02d6066e89618a3225d4df841b6adee1668aac8c14debef366735b9b529cd",
+    "serial_number": 294,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0472d7a6f40f4fb27e295524559db6439ff8fcf86caddaa2d302cda7d314454114ca4ad2528908cd5de02b357a12343c287ad0731df0a3c53473f99e17b72b2666",
+    "serial_number": 295,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "045c77b1ec7f8f56435774e302a3f1dea5e57ae77be5014087f93f04919952479dee47ca7a7b54a9da8604c3ec55c1a38c2015e6b9a5fb68ca4cdd65d98094c9fa",
+    "serial_number": 296,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04f1a736e6ed2b25b790fd0a3045fa5853fe5e00ccbb933ad2553522de78549cf0a1d941f4872713b01fa34cb6961dfcac8db0469081bd2ec80b5ea5f098759de9",
+    "serial_number": 297,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04aade4fbcca1ab0d4306116554bb6007506d4bd37fda1f8f840d4c5c6bccde0d7f6d2a1357e6e7b6e6374f6906b08e327dfbea9b0ed8d36cd1687141397824d51",
+    "serial_number": 298,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04c02e87e140a693087a790d00283376c3e0efb94cef9bac97bf4fea1f4e4aa1ff6efdaabe4584bf4e33ab53fff6aae36a0820afb5a7e5469a43109d75cd2a042a",
+    "serial_number": 299,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04a6b682cbd44b4e2d68114592dfadf9a40888a0189df3d9f0cc21928c3301ae29b66d3498d68f60788e1ba04008fdb567c1df3425b4460019840f1481857d1784",
+    "serial_number": 300,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "041d043bb7bf72c12477d9786d753e0e6cc80ec7414685bb74e94ef5ff9d8175e481656aa5f02963c9e3c4e75ff4d28a3ee067d4c650327bfc2ef0b601c6e404c9",
+    "serial_number": 301,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04b1f994f5a80757c09748299d39a39e903eca875fd4841ce3add612102fb6b0ea02a1dc5216a37644a02f47d738661ed97ac59ba9a4165f62c1c2948f7098fef8",
+    "serial_number": 302,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "045452d77b0065c98eb21ea61e8e5f7f4f7d6a124ccf569b264400213a8499ef88f43eb81d9a883acb598d44ca08e0c55305dfc9010731247176f9f3e0a4819afa",
+    "serial_number": 303,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04edddc73f168c7e1a6078f6f95aea4db96cb7528701b8e94d6e54bb6ccfb22df92c258782ef077e1d67f329810b4808268c3565c89a9fa628fcd1207f704b258a",
+    "serial_number": 304,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04f3b824809d756ebbcc8db27e3d5b78c0935fa36bbc2614d0e340b468ba0a57c8c50c7e641bb767bac54502ab360402ca53158590427069f3407b63e5e9d59e83",
+    "serial_number": 305,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "044fcccef66d43e36771fae4ef399ed1c50c3e954ba6ab9fcd40e35500560522400f36a6c367ae531d9802345faad8deed611e81a684fb7aedc8f47e593107ff0f",
+    "serial_number": 306,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "049abdea9ac10e0c9dcab93bdb19153284f2dd885dc82ecad944018ad7d11587d734b901dc51e62d112d3d6d1fe1d469f26ad64fbeceae4f7f15a125b8b92087d4",
+    "serial_number": 307,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04eaf48dd2c839554658e932bfc1950d08bb1dd5e4d62bef13742547fd62936d42347c7147c3ef86a747106cf7b0c6bc9504f7421ef4fb668dc6000e613ba6c692",
+    "serial_number": 308,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04c7e360d754a94c85763ec61b8ca48e1ba1815949777fdb2c02f74aa8523a45f1a27366df79ff6a77b56475e5b4f8faa0c3f40c7ad733df7e960b7df649ab5dd5",
+    "serial_number": 309,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04a9451175535bf7d2db701fcf8320c39775e38585c05049ffba99dedddd4019e2a021dbde05f2c29b128d0ccb9ddde55f04e3b096cf469383927f36a3cd900d9c",
+    "serial_number": 310,
+    "tier_code": "rare",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0464fea33914f345b8153ee69d889ed04e38c91a681b764aedad271d5f713eb8dd6b4a0b4cfb059829abfe442bc2c1c3f8b5ad0b514f4d937baa0c269e378336f1",
+    "serial_number": 311,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "047719326289d1eff534dc34a2fac1a6834764a300f6a24f73e5ac358ec6226c960cce726bf0b03d6cf6d41e9515125786a791392f9ad3db1655bfb9865f930a28",
+    "serial_number": 312,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "04deff260b1cbd3ef99fe09873e4143b0e4dea917e67af2165a3794aa22cf9329ab52b76d22c35a47f5840b0939f95173238819a7fad8de810ff624261c259d788",
+    "serial_number": 313,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "046ee98e1d0882a3d45f16c9f0f8000103f50d0267254c6ad0b97ba18aacb9aa55904b7a135372d25702cb0e7b6d45b76be2ef9a1126ddc5b0a83c4b0ae1f86b90",
+    "serial_number": 314,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "0489f8539111765b475e90bf9fc57a718265742c0f893bde4cc7d0ea2a5919ec2436bdcf04e99b781bc2bb3c9735ed04e0bc8c6043d4167ec799e1a62ca2be91dd",
+    "serial_number": 315,
+    "tier_code": "classic",
+    "batch_code": "samurai-1",
+    "benefits": []
+  },
+  {
+    "chip_pk": "044cca64a3e9e422d196fe99b6c45c67c8d4010170766d271713f1c441ace1249171d498112dd6144b76cb636acb06cdbfc0780beaf27d81a30f9abe2d4df39779",
+    "serial_number": 316,
+    "tier_code": "legendary",
+    "batch_code": "samurai-1",
+    "benefits": []
+  }
+]
